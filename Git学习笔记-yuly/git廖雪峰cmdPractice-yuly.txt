@@ -1,6 +1,6 @@
 Git:
 
-°²×°Git
+å®‰è£…Git
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000
 22:35 2017/5/23
 linux
@@ -9,21 +9,21 @@ linux
 
 Mac OS x
 
- homebrew°²×°
- XcodeÖĞ¼¯³É£¬  "Xcode"->"Preferenes"
+ homebrewå®‰è£…
+ Xcodeä¸­é›†æˆï¼Œ  "Xcode"->"Preferenes"
 
 Windows
 
- msysgitÊÇWindows°æµÄGit£¬´Óhttps://git-for-windows.github.ioÏÂÔØ£¨ÍøËÙÂıµÄÍ¬Ñ§ÇëÒÆ²½¹úÄÚ¾µÏñhttps://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit£©
+ msysgitæ˜¯Windowsç‰ˆçš„Gitï¼Œä»https://git-for-windows.github.ioä¸‹è½½ï¼ˆç½‘é€Ÿæ…¢çš„åŒå­¦è¯·ç§»æ­¥å›½å†…é•œåƒhttps://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgitï¼‰
 
-ÅäÖÃ»ù±¾ĞÅÏ¢
+é…ç½®åŸºæœ¬ä¿¡æ¯
  
  git config --global user.name "you name"
  git config --global user.email "email@example.com"
-end of (°²×°Git)
+end of (å®‰è£…Git)
 
 
-´´½¨°æ±¾¿â
+åˆ›å»ºç‰ˆæœ¬åº“
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000
 23:14 2017/5/23
 
@@ -32,123 +32,123 @@ http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0
  pwd
  git init
 
-¼ÇµÃ°ÑNotepad++µÄÄ¬ÈÏ±àÂëÉèÖÃÎªUTF-8 without BOM
-»ò Ä¬ÈÏ×ÊÔ´¹ÜÀíÔ±ÖĞĞÂ½¨ÎÄ±¾Ã»ÓĞÎÊÌâ£¬ANSI±àÂë
-±àĞ´Ò»¸öreadme.txtÎÄ¼ş
+è®°å¾—æŠŠNotepad++çš„é»˜è®¤ç¼–ç è®¾ç½®ä¸ºUTF-8 without BOM
+æˆ– é»˜è®¤èµ„æºç®¡ç†å‘˜ä¸­æ–°å»ºæ–‡æœ¬æ²¡æœ‰é—®é¢˜ï¼ŒANSIç¼–ç 
+ç¼–å†™ä¸€ä¸ªreadme.txtæ–‡ä»¶
 
 Git is a version control system.
 Git is free software.
 
-Ìí¼Ó´ËÎÄ¼şµ½git°æ±¾ÖĞ, ÎÄ¼şÓĞnew file£ºÇ°×º
+æ·»åŠ æ­¤æ–‡ä»¶åˆ°gitç‰ˆæœ¬ä¸­, æ–‡ä»¶æœ‰new fileï¼šå‰ç¼€
  
  git add readme.txt
 
-×öÒ»¸öÌá½»
+åšä¸€ä¸ªæäº¤
 
  git commit -m "wrote a readme file"
 
-end of (´´½¨°æ±¾¿â)
+end of (åˆ›å»ºç‰ˆæœ¬åº“)
 10:33 2017/2/13
 
 
-Ê±¹â»ú´©Ëó
+æ—¶å…‰æœºç©¿æ¢­
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743858312764dca7ad6d0754f76aa562e3789478044000
 7:25 2017/5/24
 
-ĞŞ¸Äreadme.txtÎÄ¼ş
+ä¿®æ”¹readme.txtæ–‡ä»¶
 
 Git is a distributed version control system.
 Git is free software.
 
-ÀúÊ·¼ÇÂ¼µÃ²»Í¬»á³öÏÖBinary files differ È»ºó¾Í²»ÄÜ±È½ÏÕâÊÇÎªÊ²Ã´?
-¿ÉÄÜÊÇ±àÂë¸ñÊ½²»Í³Ò»Ôì³ÉµÄ°É
-ÓÃ-a²ÎÊı£¬Ç¿ÖÆÒÔÎÄ±¾¸ñÊ½±È½Ï
-Ä¬ÈÏ×ÊÔ´¹ÜÀíÔ±ÖĞĞÂ½¨ÎÄ±¾Ã»ÓĞÎÊÌâ£¬ANSI±àÂë
+å†å²è®°å½•å¾—ä¸åŒä¼šå‡ºç°Binary files differ ç„¶åå°±ä¸èƒ½æ¯”è¾ƒè¿™æ˜¯ä¸ºä»€ä¹ˆ?
+å¯èƒ½æ˜¯ç¼–ç æ ¼å¼ä¸ç»Ÿä¸€é€ æˆçš„å§
+ç”¨-aå‚æ•°ï¼Œå¼ºåˆ¶ä»¥æ–‡æœ¬æ ¼å¼æ¯”è¾ƒ
+é»˜è®¤èµ„æºç®¡ç†å‘˜ä¸­æ–°å»ºæ–‡æœ¬æ²¡æœ‰é—®é¢˜ï¼ŒANSIç¼–ç 
 
-²é¿´²îÒì£¬Ã»ÓĞ¼ÓÎÄ¼şÃû£¬±íËùÓĞÓĞ²îÒì
+æŸ¥çœ‹å·®å¼‚ï¼Œæ²¡æœ‰åŠ æ–‡ä»¶åï¼Œè¡¨æ‰€æœ‰æœ‰å·®å¼‚
 
  git diff readme.txt
  git add readme.txt
  git status
 
-×öÒ»¸öÌá½»
+åšä¸€ä¸ªæäº¤
 
  git commit -m "add distributed"
 
-ÍøÓÑ×Ü½á
-git addµÄ¸÷ÖÖÇø±ğ
+ç½‘å‹æ€»ç»“
+git addçš„å„ç§åŒºåˆ«
  
- git add -A    //Ìí¼ÓËùÓĞ¸Ä¶¯
- git add *	//Ìí¼ÓĞÂ½¨ÎÄ¼şºÍĞŞ¸Ä£¬µ«ÊÇ²»°üÀ¨É¾³ı
- git add .	//Ìí¼ÓĞÂ½¨ÎÄ¼şºÍĞŞ¸Ä£¬µ«ÊÇ²»°üÀ¨É¾³ı
- git add -u	//Ìí¼ÓĞÂ½¨ÎÄ¼şºÍÉ¾³ı£¬µ«ÊÇ²»°üÀ¨ĞÂ½¨ÎÄ¼ş
+ git add -A    //æ·»åŠ æ‰€æœ‰æ”¹åŠ¨
+ git add *	//æ·»åŠ æ–°å»ºæ–‡ä»¶å’Œä¿®æ”¹ï¼Œä½†æ˜¯ä¸åŒ…æ‹¬åˆ é™¤
+ git add .	//æ·»åŠ æ–°å»ºæ–‡ä»¶å’Œä¿®æ”¹ï¼Œä½†æ˜¯ä¸åŒ…æ‹¬åˆ é™¤
+ git add -u	//æ·»åŠ æ–°å»ºæ–‡ä»¶å’Œåˆ é™¤ï¼Œä½†æ˜¯ä¸åŒ…æ‹¬æ–°å»ºæ–‡ä»¶
 
-ÔÚcommitÇ°³·Ïúadd
+åœ¨commitå‰æ’¤é”€add
 
- git reset [file]   //³·ÏúÌá½»µ¥¶ÀÎÄ¼ş
- git reset	    //ËùÓĞÌá½»»º´æµ½unstage
+ git reset [file]   //æ’¤é”€æäº¤å•ç‹¬æ–‡ä»¶
+ git reset	    //æ‰€æœ‰æäº¤ç¼“å­˜åˆ°unstage
 
-Ìí¼Óµ½»º´æÇøstage£¬µçÄÔÖĞÍ¼±êÎªXºìÉ«£¬Ìá½»ºóÎª*ÂÌÉ«OK£¬
-Í¬Ê±£¬checkoutÃ»ÓĞÓÃ£¬ÒªÏÈreset´ËÎÄ¼ş£¬ÔÙcheckout
+æ·»åŠ åˆ°ç¼“å­˜åŒºstageï¼Œç”µè„‘ä¸­å›¾æ ‡ä¸ºXçº¢è‰²ï¼Œæäº¤åä¸º*ç»¿è‰²OKï¼Œ
+åŒæ—¶ï¼Œcheckoutæ²¡æœ‰ç”¨ï¼Œè¦å…ˆresetæ­¤æ–‡ä»¶ï¼Œå†checkout
 
- git checkout -- readme.txt	//×¢Òâ£¬addÌí¼Ó¼Ó(Í¬commitÌá½»ºó£©¾ÍÎŞ·¨Í¨¹ıÕâÖÖ·½Ê½³·ÏúĞŞ¸Ä
+ git checkout -- readme.txt	//æ³¨æ„ï¼Œaddæ·»åŠ åŠ (åŒcommitæäº¤åï¼‰å°±æ— æ³•é€šè¿‡è¿™ç§æ–¹å¼æ’¤é”€ä¿®æ”¹
 
-¿ì½İ
+å¿«æ·
 
- git commit -a		//µÈ¼ÛÏÈgit addËùÓĞÎÄ¼ş,ÔÙÌá½»
-end of (Ê±¹â»ú´©Ëó)
+ git commit -a		//ç­‰ä»·å…ˆgit addæ‰€æœ‰æ–‡ä»¶,å†æäº¤
+end of (æ—¶å…‰æœºç©¿æ¢­)
 
 
-°æ±¾»ØÍË
+ç‰ˆæœ¬å›é€€
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000
 22:16 2017/5/24
-ĞŞ¸Äreadme.txtÎÄ¼ş
+ä¿®æ”¹readme.txtæ–‡ä»¶
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
-Ìá½»µ½°æ±¾¿â
+æäº¤åˆ°ç‰ˆæœ¬åº“
 
  git add readme.txt
  git commit -m "append GPL"
 
-²é¿´°æ±¾ÀúÊ·¼ÇÂ¼£¬Á½ÖÖ·½Ê½
+æŸ¥çœ‹ç‰ˆæœ¬å†å²è®°å½•ï¼Œä¸¤ç§æ–¹å¼
  
  git log	
  git log --pretty=oneline
 
-»ØÍË°æ±¾£¬HEADÎªÒ»¸öÖ¸Õë£¬±íµ±Ç°ÔÚÄÇ¸öÎ»ÖÃ£¬ÀàËÆÓÚĞéÄâ»ú¿ìÕÕÔÚÄÇÀï
-HEADµ±Ç°°æ±¾  HEAD^ÉÏ¸ö°æ±¾  HEAD^^ÉÏÉÏ¸ö°æ±¾   HEAD^5ÉÏ5¸ö°æ±¾   ÖĞ¼äµÄ°æ±¾ÀúÊ·ÖĞÃ»ÓĞÁË, ÓÃreflog²éµ½×îĞÂ°æ±¾£¬ÖĞ¼ä°æ±¾×Ô¶¯»Ö¸´ÏÔÊ¾
-×¢Òâ£ºµ½»¹Ô­°æ±¾Ö®¼äµÄ°æ±¾ÀúÊ·¼ÇÂ¼Ã»ÓĞÁË£¬£¬¿É²éÔ­commit idÕÒ»Ø,µ±ÃüÁî´°¿ÚÃ»ÓĞ¹Ø
-HEAD¿ÉÓÃcommit idÀ´´úÌæ
-resetÊÇÖ¸½«µ±Ç°headµÄÄÚÈİÖØÖÃ£¬²»»áÁôÈÎºÎºÛ¼£¡£
+å›é€€ç‰ˆæœ¬ï¼ŒHEADä¸ºä¸€ä¸ªæŒ‡é’ˆï¼Œè¡¨å½“å‰åœ¨é‚£ä¸ªä½ç½®ï¼Œç±»ä¼¼äºè™šæ‹Ÿæœºå¿«ç…§åœ¨é‚£é‡Œ
+HEADå½“å‰ç‰ˆæœ¬  HEAD^ä¸Šä¸ªç‰ˆæœ¬  HEAD^^ä¸Šä¸Šä¸ªç‰ˆæœ¬   HEAD^5ä¸Š5ä¸ªç‰ˆæœ¬   ä¸­é—´çš„ç‰ˆæœ¬å†å²ä¸­æ²¡æœ‰äº†, ç”¨reflogæŸ¥åˆ°æœ€æ–°ç‰ˆæœ¬ï¼Œä¸­é—´ç‰ˆæœ¬è‡ªåŠ¨æ¢å¤æ˜¾ç¤º
+æ³¨æ„ï¼šåˆ°è¿˜åŸç‰ˆæœ¬ä¹‹é—´çš„ç‰ˆæœ¬å†å²è®°å½•æ²¡æœ‰äº†ï¼Œï¼Œå¯æŸ¥åŸcommit idæ‰¾å›,å½“å‘½ä»¤çª—å£æ²¡æœ‰å…³
+HEADå¯ç”¨commit idæ¥ä»£æ›¿
+resetæ˜¯æŒ‡å°†å½“å‰headçš„å†…å®¹é‡ç½®ï¼Œä¸ä¼šç•™ä»»ä½•ç—•è¿¹ã€‚
 
- git reset --hard		//»ØÍËµ½µ±Ç°°æ±¾£¬ĞŞ¸ÄµÄÈ«²¿Ã»ÓĞÁË
- git reset --hard  [Ìá½»ID]	//»ØÍËµ½µ±Ç°°æ±¾£¬ĞŞ¸ÄµÄÈ«²¿Ã»ÓĞÁË
+ git reset --hard		//å›é€€åˆ°å½“å‰ç‰ˆæœ¬ï¼Œä¿®æ”¹çš„å…¨éƒ¨æ²¡æœ‰äº†
+ git reset --hard  [æäº¤ID]	//å›é€€åˆ°å½“å‰ç‰ˆæœ¬ï¼Œä¿®æ”¹çš„å…¨éƒ¨æ²¡æœ‰äº†
 
-Ğ¡½Ú£º
-git reset »á±£Áô¹¤×÷Ä¿Â¼¡£ÕâÑù£¬Ìá½»ÊÇÃ»ÓĞÁË£¬µ«ÊÇĞŞ¸ÄÄÚÈİ»¹ÔÚ´ÅÅÌÉÏ¡£ÕâÊÇÒ»ÖÖ°²È«µÄÑ¡Ôñ£¬µ«Í¨³£ÎÒÃÇ»áÏ£ÍûÒ»²½¾Í¡°³·Ïú¡±Ìá½»ÒÔ¼°ĞŞ¸ÄÄÚÈİ ¡ª Õâ¾ÍÊÇ --hard Ñ¡ÏîµÄ¹¦ÄÜ¡£
-revertĞ§¹û¿´ÆğÀ´ÏàÍ¬£¬µ«ÊµÏÖ»úÖÆ²»Ò»Ñù£¬µ±Ç°½¨Ò»¸öĞÂ°æ±¾£¬ÔÙ»¹Ô­ÎªÖ¸¶¨°æ±¾£¬ÖĞ¼ä°æ±¾ÓĞ
-reflog  »¹Ô­µ½ÈÎºÎ°æ±¾£¬±£À¨ÀúÊ·ÖĞÃ»ÓĞµÄ£¬ ¼¸¸öÔÂºó×Ô¶¯ÒªÇåÀí²»ÓÃµÄreflog
+å°èŠ‚ï¼š
+git reset ä¼šä¿ç•™å·¥ä½œç›®å½•ã€‚è¿™æ ·ï¼Œæäº¤æ˜¯æ²¡æœ‰äº†ï¼Œä½†æ˜¯ä¿®æ”¹å†…å®¹è¿˜åœ¨ç£ç›˜ä¸Šã€‚è¿™æ˜¯ä¸€ç§å®‰å…¨çš„é€‰æ‹©ï¼Œä½†é€šå¸¸æˆ‘ä»¬ä¼šå¸Œæœ›ä¸€æ­¥å°±â€œæ’¤é”€â€æäº¤ä»¥åŠä¿®æ”¹å†…å®¹ â€” è¿™å°±æ˜¯ --hard é€‰é¡¹çš„åŠŸèƒ½ã€‚
+revertæ•ˆæœçœ‹èµ·æ¥ç›¸åŒï¼Œä½†å®ç°æœºåˆ¶ä¸ä¸€æ ·ï¼Œå½“å‰å»ºä¸€ä¸ªæ–°ç‰ˆæœ¬ï¼Œå†è¿˜åŸä¸ºæŒ‡å®šç‰ˆæœ¬ï¼Œä¸­é—´ç‰ˆæœ¬æœ‰
+reflog  è¿˜åŸåˆ°ä»»ä½•ç‰ˆæœ¬ï¼Œä¿æ‹¬å†å²ä¸­æ²¡æœ‰çš„ï¼Œ å‡ ä¸ªæœˆåè‡ªåŠ¨è¦æ¸…ç†ä¸ç”¨çš„reflog
 ff0bf00 HEAD@{13}: commit: add distributed
-commit_idÒ²¿ÉÒÔÓÃreflogÖĞ HEAD@{X}  ÒıÓÃ²Ù×÷ÀúÊ·
-checkoutµ¥¸öÎÄ¼ş»¹Ô­
+commit_idä¹Ÿå¯ä»¥ç”¨reflogä¸­ HEAD@{X}  å¼•ç”¨æ“ä½œå†å²
+checkoutå•ä¸ªæ–‡ä»¶è¿˜åŸ
 
-end of (°æ±¾»ØÍË)
+end of (ç‰ˆæœ¬å›é€€)
 
 
-¹¤×÷ÇøºÍÔİ´æÇø
+å·¥ä½œåŒºå’Œæš‚å­˜åŒº
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013745374151782eb658c5a5ca454eaa451661275886c6000
 22:34 2017/5/25
-¹¤×÷Çø£¨Working Directory) ¾ÍÊÇµçÄÔÖĞÄÜ¿´µ½µÄÎÄ¼şÓëÄ¿Â¼
-Ôİ´æÇø£¨stage£©»ò½Ğindex	
-ĞŞ¸ÄÎÄ¼şreadme.txt,¼ÓÉÏÒ»ĞĞ
+å·¥ä½œåŒºï¼ˆWorking Directory) å°±æ˜¯ç”µè„‘ä¸­èƒ½çœ‹åˆ°çš„æ–‡ä»¶ä¸ç›®å½•
+æš‚å­˜åŒºï¼ˆstageï¼‰æˆ–å«index	
+ä¿®æ”¹æ–‡ä»¶readme.txt,åŠ ä¸Šä¸€è¡Œ
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
-Ìí¼Óµ½stage,²é¿´×´Ì¬,×öÒ»¸öÌá½»
+æ·»åŠ åˆ°stage,æŸ¥çœ‹çŠ¶æ€,åšä¸€ä¸ªæäº¤
 
  git status
  git add readme.txt
@@ -157,44 +157,44 @@ Git has a mutable index called stage.
  git commit -m "understand how stage works"
  git status
 
-end of (¹¤×÷ÇøºÍÔİ´æÇø)
+end of (å·¥ä½œåŒºå’Œæš‚å­˜åŒº)
 
 
-¹ÜÀíĞŞ¸Ä
+ç®¡ç†ä¿®æ”¹
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374829472990293f16b45df14f35b94b3e8a026220c5000
 0:07 2017/5/26
-Git¹ÜÀíµÄÊÇĞŞ¸Ä£¬¶ø²»ÊÇÎÄ¼ş£¬²âÊÔ£¬¶Ôreadme.txtĞŞ¸Ä£¬¼ÓÒ»ĞĞ
+Gitç®¡ç†çš„æ˜¯ä¿®æ”¹ï¼Œè€Œä¸æ˜¯æ–‡ä»¶ï¼Œæµ‹è¯•ï¼Œå¯¹readme.txtä¿®æ”¹ï¼ŒåŠ ä¸€è¡Œ
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 
-·Åµ½stage»º´æÇø
+æ”¾åˆ°stageç¼“å­˜åŒº
 
  git add readme.txt
  git status
 
-ÔÙĞŞ¸ÄÎÄ¼şreadme.txt
+å†ä¿®æ”¹æ–‡ä»¶readme.txt
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-×öÒ»¸öÌá½»
+åšä¸€ä¸ªæäº¤
  
  git commit -m "git tracks changes"
 
-µ±ÖØÃüÃûÒ»¸öÎÄ¼şÃû£¬Ã»ÓĞadd£¬GitÈÏÎªÊÇÉ¾³ı£¬ÔÙĞÂ½¨Ò»¸ö,
-addºó£¬Ê¶±ğµ½rename, Ô­ÀíÊÇ·´Ïò²Ù×÷ÔËËãµÃ³ö²îÒì
-end of (¹ÜÀíĞŞ¸Ä)
+å½“é‡å‘½åä¸€ä¸ªæ–‡ä»¶åï¼Œæ²¡æœ‰addï¼ŒGitè®¤ä¸ºæ˜¯åˆ é™¤ï¼Œå†æ–°å»ºä¸€ä¸ª,
+addåï¼Œè¯†åˆ«åˆ°rename, åŸç†æ˜¯åå‘æ“ä½œè¿ç®—å¾—å‡ºå·®å¼‚
+end of (ç®¡ç†ä¿®æ”¹)
 
 
-³·ÏúĞŞ¸Ä
+æ’¤é”€ä¿®æ”¹
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374831943254ee90db11b13d4ba9a73b9047f4fb968d000
 7:22 2017/5/27
-ĞŞ¸Äreadme.txtÎÄ¼ş
+ä¿®æ”¹readme.txtæ–‡ä»¶
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -202,16 +202,16 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 
-²é¿´×´Ì¬£¬·¢ÏÖÃ»ÓĞ¼ÓÈëµ½Ôİ´æstageÇø,Á½ÖÖÇé¿ö
-Ôİ´æstageÇø, ·ÅÆúµ±Ç°¹¤×÷ÇøÎÄ¼ş£¬ÎªÉÏ´ÎÌá½»commit id×´Ì¬
-ÒÑ¼ÓÈëÔİ´æstageÇø£¬·ÅÆúµ±Ç°¹¤×÷ÇøÎÄ¼ş£¬ÎªÔİ´æÇøÎÄ¼ş
-¼Ç·ÅÆúµ±Ç°¹¤×÷Çø, »¹Ô­×î½üÎÄ¼ş,
-×¢Òâ£¬Ã»ÓĞÎÄ¼ş£¬±íËùÓĞÎÄ¼ş,--Ö¸µ±Ç°·ÖÖ§£¬Ã»ÓĞÓëÎÄ¼şÃû£¬±íÇĞ»»·ÖÖ§
+æŸ¥çœ‹çŠ¶æ€ï¼Œå‘ç°æ²¡æœ‰åŠ å…¥åˆ°æš‚å­˜stageåŒº,ä¸¤ç§æƒ…å†µ
+æš‚å­˜stageåŒº, æ”¾å¼ƒå½“å‰å·¥ä½œåŒºæ–‡ä»¶ï¼Œä¸ºä¸Šæ¬¡æäº¤commit idçŠ¶æ€
+å·²åŠ å…¥æš‚å­˜stageåŒºï¼Œæ”¾å¼ƒå½“å‰å·¥ä½œåŒºæ–‡ä»¶ï¼Œä¸ºæš‚å­˜åŒºæ–‡ä»¶
+è®°æ”¾å¼ƒå½“å‰å·¥ä½œåŒº, è¿˜åŸæœ€è¿‘æ–‡ä»¶,
+æ³¨æ„ï¼Œæ²¡æœ‰æ–‡ä»¶ï¼Œè¡¨æ‰€æœ‰æ–‡ä»¶,--æŒ‡å½“å‰åˆ†æ”¯ï¼Œæ²¡æœ‰ä¸æ–‡ä»¶åï¼Œè¡¨åˆ‡æ¢åˆ†æ”¯
 
  git status
  git checkout -- readme.txt
 
-ĞŞ¸Äreadme.txtÎÄ¼ş
+ä¿®æ”¹readme.txtæ–‡ä»¶
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -219,99 +219,99 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 
-Ìí¼Óµ½Ôİ´æÇøstage
+æ·»åŠ åˆ°æš‚å­˜åŒºstage
 
  git add readme.txt
  git status
 
-´ÓÔİ´æÇøstageĞŞ¸Ä»Øµ½¹¤×÷Çø,ÈçÆğÓÃcheckout,»¹Ô­ÊÇstageÇøµÄ£¬¿´ÆğÀ´Ã»Ğ§¹û
-½Ì³Ì±í´ïÓĞÎó£ºgit reset HEAD readme.txtÖ»ÊÇÈ¡ÏûÎÄ¼şÔÚstageÈ¥unstage,µ«ÕæÃ»ÓĞµ½¹¤×÷Çø(ÏÖÊµÖĞÎÄ¼ş¼Ğ£©
-Ö»ÊÇ×öÁËÒ»¸ö¸´ÖÆ£¬Ìá½»ÓÃµÄµ½£¬checkout²»£¬²»»áµ½¹¤×÷ÇøÖĞ£¬£¬ÀàËÆÓÚÓÚÎÄ¼şÔÚÆäËüÄ¿±ê´ò¸´Ñ¡,ÓĞ¹´±í¿ÉÌá½»£¬
-Ã»¹´²»Ìá½»£¬µ«ÎÄ¼şÑ¹¸ùÃ»ÔÚ¹¤×÷ÇøÎÄ¼ş¼ĞÖĞÑ½£¡
+ä»æš‚å­˜åŒºstageä¿®æ”¹å›åˆ°å·¥ä½œåŒº,å¦‚èµ·ç”¨checkout,è¿˜åŸæ˜¯stageåŒºçš„ï¼Œçœ‹èµ·æ¥æ²¡æ•ˆæœ
+æ•™ç¨‹è¡¨è¾¾æœ‰è¯¯ï¼šgit reset HEAD readme.txtåªæ˜¯å–æ¶ˆæ–‡ä»¶åœ¨stageå»unstage,ä½†çœŸæ²¡æœ‰åˆ°å·¥ä½œåŒº(ç°å®ä¸­æ–‡ä»¶å¤¹ï¼‰
+åªæ˜¯åšäº†ä¸€ä¸ªå¤åˆ¶ï¼Œæäº¤ç”¨çš„åˆ°ï¼Œcheckoutä¸ï¼Œä¸ä¼šåˆ°å·¥ä½œåŒºä¸­ï¼Œï¼Œç±»ä¼¼äºäºæ–‡ä»¶åœ¨å…¶å®ƒç›®æ ‡æ‰“å¤é€‰,æœ‰å‹¾è¡¨å¯æäº¤ï¼Œ
+æ²¡å‹¾ä¸æäº¤ï¼Œä½†æ–‡ä»¶å‹æ ¹æ²¡åœ¨å·¥ä½œåŒºæ–‡ä»¶å¤¹ä¸­å‘€ï¼
  
  git reset HEAD readme.txt
  git checkout -- readme.txt
 
 
-ÊµÑé£º
- Ô­ÓĞÎÄ¼şÄÚÈİÉèÖÃA£¬Ìí¼ÓstageÇø
- git reset HEAD^^ readme.txt      Éè±¸°æ±¾B   µ½ÁË¹¤×÷Çø£¬µ«ÎÄ¼ş²»Í¬£¬Ã»ÓĞ»¹Ô­£¬ÒªÈ·ÈÏ£¬ÓĞchekcout
- ´ËÊ±stageÇø»¹ÓĞÎÄ¼ş£¬µ«²»ÊÇreset»¹Ô­¹ıÀ´µÄÄÚÈİ£¬»¹ÊÇA
+å®éªŒï¼š
+ åŸæœ‰æ–‡ä»¶å†…å®¹è®¾ç½®Aï¼Œæ·»åŠ stageåŒº
+ git reset HEAD^^ readme.txt      è®¾å¤‡ç‰ˆæœ¬B   åˆ°äº†å·¥ä½œåŒºï¼Œä½†æ–‡ä»¶ä¸åŒï¼Œæ²¡æœ‰è¿˜åŸï¼Œè¦ç¡®è®¤ï¼Œæœ‰chekcout
+ æ­¤æ—¶stageåŒºè¿˜æœ‰æ–‡ä»¶ï¼Œä½†ä¸æ˜¯resetè¿˜åŸè¿‡æ¥çš„å†…å®¹ï¼Œè¿˜æ˜¯A
  
  git checkout -- readme.txt
- ºó£¬ÄÚÈİÎªB
+ åï¼Œå†…å®¹ä¸ºB
 
- ÓÖ
+ åˆ
  git reset HEAD readme.txt
  git check out -- readme.txt
 
- ÉñÆæ³ÉÁË×î³õAÄÚÈİ,ºÎ½â£¬»¹ÓĞµÚÈı´æ´¢ÇøÂğ£¿
+ ç¥å¥‡æˆäº†æœ€åˆAå†…å®¹,ä½•è§£ï¼Œè¿˜æœ‰ç¬¬ä¸‰å­˜å‚¨åŒºå—ï¼Ÿ
 
-end of (³·ÏúĞŞ¸Ä)
+end of (æ’¤é”€ä¿®æ”¹)
 
 
-É¾³ıÎÄ¼ş
+åˆ é™¤æ–‡ä»¶
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013758392816224cafd33c44b4451887cc941e6716805c000
 23:55 2017/5/31
-É¾³ıÒ²ÊÇÒ»¸öĞŞ¸Ä²Ù×÷£¬ÏÈ½¨Ò»¸ötest.txt, ¼ÓÒ»¸öÄÚÈİ£¬Ìá½»
+åˆ é™¤ä¹Ÿæ˜¯ä¸€ä¸ªä¿®æ”¹æ“ä½œï¼Œå…ˆå»ºä¸€ä¸ªtest.txt, åŠ ä¸€ä¸ªå†…å®¹ï¼Œæäº¤
 
  git add test.txt
  git commit -m "add test.txt"
 
-É¾³ıtest.txtÎÄ¼ş£¬¿´×´Ì¬£¬ÏÔÊ¾ÒÑÉ¾³ı
+åˆ é™¤test.txtæ–‡ä»¶ï¼Œçœ‹çŠ¶æ€ï¼Œæ˜¾ç¤ºå·²åˆ é™¤
 
  rm test.txt
  git status
 
-É¾³ı£¬ÓĞÁ½ÖÖ´¦Àí·½·¨
+åˆ é™¤ï¼Œæœ‰ä¸¤ç§å¤„ç†æ–¹æ³•
 
  git rm test.txt
  git commit -m "remove test.txt"
 
 
-»òÕßaddÀ´È·ÈÏ
+æˆ–è€…addæ¥ç¡®è®¤
 
  git add test.txt
  git commit -m "remove test.txt"
 
 git rm test.txt
-µÈÓÚ
+ç­‰äº
 rm test.txt
 git add test.txt
 
-»¹Ô­°æ±¾
+è¿˜åŸç‰ˆæœ¬
 
  git checkout -- test.txt
 
 
-git add a.txt -> Æ¥Åäµ½a.txt
-git add *.txt -> Æ¥Åäµ½µ±Ç°Ä¿Â¼ÏÂËùÓĞtxt
-git add **/*.txt -> Æ¥Åäµ½µ±Ç°Ä¿Â¼ºÍ×ÓÄ¿Â¼ÏÂËùÓĞtxt
-git add . -> Æ¥Åäµ½µ±Ç°Ä¿Â¼ÏÂËùÓĞÎÄ¼ş
+git add a.txt -> åŒ¹é…åˆ°a.txt
+git add *.txt -> åŒ¹é…åˆ°å½“å‰ç›®å½•ä¸‹æ‰€æœ‰txt
+git add **/*.txt -> åŒ¹é…åˆ°å½“å‰ç›®å½•å’Œå­ç›®å½•ä¸‹æ‰€æœ‰txt
+git add . -> åŒ¹é…åˆ°å½“å‰ç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶
 
-ÓĞĞ¡ÎóÍøÓÑôË»Êµî
-1 ËµµÄÒ²²»Çå³ş£¬Ó¦¸Ã»¹ÊÇÒªÇø·Ö
-¼Ù¶¨HEAD°æ±¾Îª°æ±¾1
+æœ‰å°è¯¯ç½‘å‹ç¾²çš‡æ®¿
+1 è¯´çš„ä¹Ÿä¸æ¸…æ¥šï¼Œåº”è¯¥è¿˜æ˜¯è¦åŒºåˆ†
+å‡å®šHEADç‰ˆæœ¬ä¸ºç‰ˆæœ¬1
 
-1¡¢¹¤×÷ÇøÄãĞŞ¸ÄÁË£¬Îª °æ±¾2 £¬µ«Ã»add£¬ÄÇÃ´ checkout ¾Í»áÊ¹Äã¹¤×÷Çø»Øµ½°æ±¾1
-2¡¢¹¤×÷ÇøÄãĞŞ¸ÄÁË£¬Îª°æ±¾2£¬addÁË£¬stageÇøÒ²Îª°æ±¾2£¬È»ºóÄãÓÖĞŞ¸ÄÁË¹¤×÷Çø£¬Îª°æ±¾3£¬Ã»ÔÙ´Îadd£¬ÄÇÃ´checkout¾Í»áÊ¹ÄãstageÇøµÄ°æ±¾2Ê§Ğ§£¬Àí½âÎªÇå¿ÕÒ²ĞĞ£¬µ«ÊÇ¹¤×÷ÇøÒÀÈ»°æ±¾3
-end of (ÓĞĞ¡ÎóÍøÓÑôË»Êµî)
-
-
-end of (É¾³ıÎÄ¼ş)
+1ã€å·¥ä½œåŒºä½ ä¿®æ”¹äº†ï¼Œä¸º ç‰ˆæœ¬2 ï¼Œä½†æ²¡addï¼Œé‚£ä¹ˆ checkout å°±ä¼šä½¿ä½ å·¥ä½œåŒºå›åˆ°ç‰ˆæœ¬1
+2ã€å·¥ä½œåŒºä½ ä¿®æ”¹äº†ï¼Œä¸ºç‰ˆæœ¬2ï¼Œaddäº†ï¼ŒstageåŒºä¹Ÿä¸ºç‰ˆæœ¬2ï¼Œç„¶åä½ åˆä¿®æ”¹äº†å·¥ä½œåŒºï¼Œä¸ºç‰ˆæœ¬3ï¼Œæ²¡å†æ¬¡addï¼Œé‚£ä¹ˆcheckoutå°±ä¼šä½¿ä½ stageåŒºçš„ç‰ˆæœ¬2å¤±æ•ˆï¼Œç†è§£ä¸ºæ¸…ç©ºä¹Ÿè¡Œï¼Œä½†æ˜¯å·¥ä½œåŒºä¾ç„¶ç‰ˆæœ¬3
+end of (æœ‰å°è¯¯ç½‘å‹ç¾²çš‡æ®¿)
 
 
-Ô¶³Ì²Ö¿â
+end of (åˆ é™¤æ–‡ä»¶)
+
+
+è¿œç¨‹ä»“åº“
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374385852170d9c7adf13c30429b9660d0eb689dd43a000
 12:06 2017/6/4
-Éú³ÉÃÜÔ¿, id_rsaÎªË½Ô¿  id_rsa.pubÎª¹«Ô¿, ¹«Ô¿ÉÏ´«µ½Github
+ç”Ÿæˆå¯†é’¥, id_rsaä¸ºç§é’¥  id_rsa.pubä¸ºå…¬é’¥, å…¬é’¥ä¸Šä¼ åˆ°Github
 Account Settings->SSH Keys->Add SSH Key
 $ ssh-keygen -t rsa -C "ibm8808@sohu.com"
 
-C:\ÓÃ»§£¨¾ÍÊÇÖĞÎÄÁ½¸ö×ÖÓÃ»§£©\Administrator\.ssh
+C:\ç”¨æˆ·ï¼ˆå°±æ˜¯ä¸­æ–‡ä¸¤ä¸ªå­—ç”¨æˆ·ï¼‰\Administrator\.ssh
 
-GithubËµÃ÷
-¡­or create a new repository on the command line
+Githubè¯´æ˜
+â€¦or create a new repository on the command line
 
 echo "# gitlearn2" >> README.md
 git init
@@ -319,60 +319,60 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/yuly/gitlearn2.git
 git push -u origin master
-¡­or push an existing repository from the command line
+â€¦or push an existing repository from the command line
 
 git remote add origin https://github.com/yuly/gitlearn2.git
 git push -u origin master
 
-Ìí¼ÓÔ¶³Ì¿â
+æ·»åŠ è¿œç¨‹åº“
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
 14:36 2017/6/4
-Ìí¼ÓÍÆËÍÓëÀ­È¡µØÖ·£¬Ãû³ÆÄ¬ÈÏorigin,ÕâÀïÈ¡ÆäËüÃû³ÆÊµÑé£¬±¾µØÎÄ¼ş¼ĞÎª·´learngit
-httpsÄ£Ê½ÉÏ´«ÒªÃÜÂë
+æ·»åŠ æ¨é€ä¸æ‹‰å–åœ°å€ï¼Œåç§°é»˜è®¤origin,è¿™é‡Œå–å…¶å®ƒåç§°å®éªŒï¼Œæœ¬åœ°æ–‡ä»¶å¤¹ä¸ºålearngit
+httpsæ¨¡å¼ä¸Šä¼ è¦å¯†ç 
 	$ git remote add origin https://github.com/yuly/gitlearn2.git
 $ git remote add myshh3 git@github.com:yuly/gitlearn.git
 $ git remote -v
 	$ git push -u origin master
 $ git push -u myshh3 master
 
-µÚÒ»´ÎÌá½»£¬ÒªÊäÈëyes
-µÚÒ»´Îºó£¬
+ç¬¬ä¸€æ¬¡æäº¤ï¼Œè¦è¾“å…¥yes
+ç¬¬ä¸€æ¬¡åï¼Œ
 $ git push myshh3 master
-»ò
+æˆ–
 $ git push
 
-end of (Ìí¼ÓÔ¶³Ì¿â)
+end of (æ·»åŠ è¿œç¨‹åº“)
 
 
-´ÓÔ¶³Ì¿â¿ËÂ¡
+ä»è¿œç¨‹åº“å…‹éš†
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375233990231ac8cf32ef1b24887a5209f83e01cb94b000
 15:25 2017/6/4
-½¨Á¢Ò»¸öĞÂ²Ö¿â£¬³õÊ¼»¯READMEÎÄ¼ş
-±¾µØÒ»¸öĞÂÄ¿Â¼£¬Ö´ĞĞÍê×Ô¶¯ĞÂ½¨Ò»¸öÄ¬ÈÏÎÄ¼ş¼ĞÎª²Ö¿âÃû³Æ,¿ÉÒÔ¸ÄÃû
+å»ºç«‹ä¸€ä¸ªæ–°ä»“åº“ï¼Œåˆå§‹åŒ–READMEæ–‡ä»¶
+æœ¬åœ°ä¸€ä¸ªæ–°ç›®å½•ï¼Œæ‰§è¡Œå®Œè‡ªåŠ¨æ–°å»ºä¸€ä¸ªé»˜è®¤æ–‡ä»¶å¤¹ä¸ºä»“åº“åç§°,å¯ä»¥æ”¹å
 $ git clone https://github.com/yuly/gitskills
-end of (´ÓÔ¶³Ì¿â¿ËÂ¡)
-end of (Ô¶³Ì²Ö¿â)
+end of (ä»è¿œç¨‹åº“å…‹éš†)
+end of (è¿œç¨‹ä»“åº“)
 
 
-·ÖÖ§¹ÜÀí
+åˆ†æ”¯ç®¡ç†
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743862006503a1c5bf5a783434581661a3cc2084efa000
 15:35 2017/6/4
-´´½¨ÓëºÏ²¢·ÖÖ§
+åˆ›å»ºä¸åˆå¹¶åˆ†æ”¯
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
 15:40 2017/6/4
-¿ìËÙ·ÖÖ§£¬Ö»ÊÇÒÆ¶¯Ö¸Õë
-½¨Á¢dev·ÖÖ§£¬²¢ÇĞ»»
+å¿«é€Ÿåˆ†æ”¯ï¼Œåªæ˜¯ç§»åŠ¨æŒ‡é’ˆ
+å»ºç«‹devåˆ†æ”¯ï¼Œå¹¶åˆ‡æ¢
 $ git branch dev
 $ git checkout dev
 
-Ò²¿ÉºÏ²¢ÎªÒ»¾ä
+ä¹Ÿå¯åˆå¹¶ä¸ºä¸€å¥
 $ git checkout -b dev
 
-²é¿´·ÖÖ§,Ç°ÃæÎª*Îªµ±Ç°·ÖÖ§
+æŸ¥çœ‹åˆ†æ”¯,å‰é¢ä¸º*ä¸ºå½“å‰åˆ†æ”¯
 $ git branch
-end of (´´½¨ÓëºÏ²¢·ÖÖ§)
+end of (åˆ›å»ºä¸åˆå¹¶åˆ†æ”¯)
 
-×öreadme.txtÎÄ¼şĞŞ¸Ä£¬Ìá½»
+åšreadme.txtæ–‡ä»¶ä¿®æ”¹ï¼Œæäº¤
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -383,14 +383,14 @@ Createing a new branch is quick
 $ git add readme.txt
 $ git commit -m "branch test"
 
-ÇĞ»Ømaster·ÖÖ§£¬ÉñÆæµÄreadme.txt»¹»Øµ½masterÄÇ¸ö°æ±¾£¬ÓÃnotepad2µÄÎÄ¼ş±ä¸üÍ¨ÖªÖ±¹Û¿´
+åˆ‡å›masteråˆ†æ”¯ï¼Œç¥å¥‡çš„readme.txtè¿˜å›åˆ°masteré‚£ä¸ªç‰ˆæœ¬ï¼Œç”¨notepad2çš„æ–‡ä»¶å˜æ›´é€šçŸ¥ç›´è§‚çœ‹
 $ git checkout master
 
-·ÖÖ§É¾³ı
+åˆ†æ”¯åˆ é™¤
 $ git branch -d dev
 Deleted branch dev (was ada6748).
 
-²âÊÔ¹ûÕæÊÇÖ¸Õë±ä»¯
+æµ‹è¯•æœçœŸæ˜¯æŒ‡é’ˆå˜åŒ–
 yuly@yuly-PC MINGW32 /d/yuly/doc/gitlearn/liaoGit/learngit (master)
 $ git log --pretty=oneline
 5df4cff96e6d9009546cd270f5803c37fd874e44 remove test.txt
@@ -429,49 +429,49 @@ ada67485d8177d380271482ee818f838f81bb287 branch test
 59d5ed7664784c66a8fb61f5c6dc6fff03ddec15 add test.txt
 
 end of (
-Git½Ì³Ì
-Git¼ò½é
-GitµÄµ®Éú
-¼¯ÖĞÊ½vs·Ö²¼Ê½
-°²×°Git
-´´½¨°æ±¾¿â
-Ê±¹â»ú´©Ëó
-°æ±¾»ØÍË
-¹¤×÷ÇøºÍÔİ´æÇø
-¹ÜÀíĞŞ¸Ä
-³·ÏúĞŞ¸Ä
-É¾³ıÎÄ¼ş
-Ô¶³Ì²Ö¿â
-Ìí¼ÓÔ¶³Ì¿â
-´ÓÔ¶³Ì¿â¿ËÂ¡
-·ÖÖ§¹ÜÀí
-´´½¨ÓëºÏ²¢·ÖÖ§
-½â¾ö³åÍ»
-·ÖÖ§¹ÜÀí²ßÂÔ
-Bug·ÖÖ§
-Feature·ÖÖ§
-¶àÈËĞ­×÷
-±êÇ©¹ÜÀí
-´´½¨±êÇ©
-²Ù×÷±êÇ©
-Ê¹ÓÃGitHub
-×Ô¶¨ÒåGit
-ºöÂÔÌØÊâÎÄ¼ş
-ÅäÖÃ±ğÃû
-´î½¨Git·şÎñÆ÷
-ÆÚÄ©×Ü½á
-¹ØÓÚ×÷Õß
+Gitæ•™ç¨‹
+Gitç®€ä»‹
+Gitçš„è¯ç”Ÿ
+é›†ä¸­å¼vsåˆ†å¸ƒå¼
+å®‰è£…Git
+åˆ›å»ºç‰ˆæœ¬åº“
+æ—¶å…‰æœºç©¿æ¢­
+ç‰ˆæœ¬å›é€€
+å·¥ä½œåŒºå’Œæš‚å­˜åŒº
+ç®¡ç†ä¿®æ”¹
+æ’¤é”€ä¿®æ”¹
+åˆ é™¤æ–‡ä»¶
+è¿œç¨‹ä»“åº“
+æ·»åŠ è¿œç¨‹åº“
+ä»è¿œç¨‹åº“å…‹éš†
+åˆ†æ”¯ç®¡ç†
+åˆ›å»ºä¸åˆå¹¶åˆ†æ”¯
+è§£å†³å†²çª
+åˆ†æ”¯ç®¡ç†ç­–ç•¥
+Bugåˆ†æ”¯
+Featureåˆ†æ”¯
+å¤šäººåä½œ
+æ ‡ç­¾ç®¡ç†
+åˆ›å»ºæ ‡ç­¾
+æ“ä½œæ ‡ç­¾
+ä½¿ç”¨GitHub
+è‡ªå®šä¹‰Git
+å¿½ç•¥ç‰¹æ®Šæ–‡ä»¶
+é…ç½®åˆ«å
+æ­å»ºGitæœåŠ¡å™¨
+æœŸæœ«æ€»ç»“
+å…³äºä½œè€…
 
 
 
 
  
-end of (´´½¨ÓëºÏ²¢·ÖÖ§)
+end of (åˆ›å»ºä¸åˆå¹¶åˆ†æ”¯)
 
-½â¾ö³åÍ»
+è§£å†³å†²çª
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840202368c74be33fbd884e71b570f2cc3c0d1dcf000
 22:29 2017/6/4
-´´½¨·ÖÖ§feature1,²¢ÇĞ»»¹ıÈ¥,²¢ĞŞ¸Ä×îºóÒ»ĞĞreadme.txt,²¢Ìá½»
+åˆ›å»ºåˆ†æ”¯feature1,å¹¶åˆ‡æ¢è¿‡å»,å¹¶ä¿®æ”¹æœ€åä¸€è¡Œreadme.txt,å¹¶æäº¤
 $ git checkout -b feature1
 
 Git is a distributed version control system.
@@ -483,7 +483,7 @@ Createing a new branch is quick AND simple
 $ git add readme.txt
 $ git commit -m "AND simple"
 
-ÇĞ»»µ½master·ÖÖ§£¬²¢ĞŞ¸Ä×îºóÒ»ĞĞreadme.txt,²¢Ìá½»
+åˆ‡æ¢åˆ°masteråˆ†æ”¯ï¼Œå¹¶ä¿®æ”¹æœ€åä¸€è¡Œreadme.txt,å¹¶æäº¤
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -494,7 +494,7 @@ Createing a new branch is quick & simple.
 $ git add readme.txt
 $ git commit -m "& simple"
 
-Ö´ĞĞºÏ²¢feature1µ½master£¬ÓĞ³åÍ», Ã»·¨¿ìËÙºÏ²¢£¬Òª×Ô¶¯ĞÂ½¨Ò»¸ö·ÖÖ§£¬³åÍ»½â¾öºó£¬continue¼ÌĞø
+æ‰§è¡Œåˆå¹¶feature1åˆ°masterï¼Œæœ‰å†²çª, æ²¡æ³•å¿«é€Ÿåˆå¹¶ï¼Œè¦è‡ªåŠ¨æ–°å»ºä¸€ä¸ªåˆ†æ”¯ï¼Œå†²çªè§£å†³åï¼Œcontinueç»§ç»­
 $ git merge feature1
 Auto-merging readme.txt
 CONFLICT (content): Merge conflict in readme.txt
@@ -515,7 +515,7 @@ Unmerged paths:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-ĞŞ¸Ä³åÍ»ÎÄ¼ş£¬HEAD±íÖ÷£¬ºóÃæ±íºÏ¹ıÀ´ÄÚÈİ,É¾³ı=====¼´ÎªºÏ²¢OK£¬ÓÃadd
+ä¿®æ”¹å†²çªæ–‡ä»¶ï¼ŒHEADè¡¨ä¸»ï¼Œåé¢è¡¨åˆè¿‡æ¥å†…å®¹,åˆ é™¤=====å³ä¸ºåˆå¹¶OKï¼Œç”¨add
 $ git add readme.txt
 $ git commit -m "conflict fixed"
 yuly@yuly-PC MINGW32 /d/yuly/doc/gitlearn/liaoGit/learngit (master)
@@ -534,17 +534,17 @@ $ git log --graph --pretty=oneline --abbrev-commit
 * ff0bf00 add distributed
 * af834b0 wrote a readme file
 
-É¾³ıfeature1·ÖÖ§£¬×¢ÒâÒª²»ÔÚÉ¾³ı·ÖÖ§ÉÏ
+åˆ é™¤feature1åˆ†æ”¯ï¼Œæ³¨æ„è¦ä¸åœ¨åˆ é™¤åˆ†æ”¯ä¸Š
 $ git branch -d feature1
 
-end of (½â¾ö³åÍ»)
+end of (è§£å†³å†²çª)
 
 
-·ÖÖ§¹ÜÀí²ßÂÔ
+åˆ†æ”¯ç®¡ç†ç­–ç•¥
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013758410364457b9e3d821f4244beb0fd69c61a185ae0000
 23:05 2017/6/4
-½ûÓÃFast forwardÄ£Ê½£¬ git merge --no--ff
-´´½¨²¢ÇĞ»»dev·ÖÖ§£¬ĞŞ¸Äreadme.txtÎÄ¼ş,²¢Ìá½»
+ç¦ç”¨Fast forwardæ¨¡å¼ï¼Œ git merge --no--ff
+åˆ›å»ºå¹¶åˆ‡æ¢devåˆ†æ”¯ï¼Œä¿®æ”¹readme.txtæ–‡ä»¶,å¹¶æäº¤
 $ git checkout -b dev
 $ git add readme.txt
 $ git commit -m "add merge"
@@ -552,20 +552,20 @@ $ git commit -m "add merge"
 $ git checkout master
 $ git merge --no-ff -m "merge with no-ff" dev
 
-²é¿´logÍ¼ĞÎ»¯
+æŸ¥çœ‹logå›¾å½¢åŒ–
 $ git log --graph --pretty=oneline --abbrev-commit
 
-¼òµ¥µØËµ¾ÍÊÇ -no-ff Ä£Ê½½øĞĞÁËÒ»´ÎĞÂµÄ git commit ²Ù×÷¡£
-ÕâÒ²ÊÇÎªÊ²Ã´²ÉÓÃ -no-ff Ä£Ê½Òª¼ÓÈë²ÎÊı -m µÄÔ­Òò¡£
+ç®€å•åœ°è¯´å°±æ˜¯ -no-ff æ¨¡å¼è¿›è¡Œäº†ä¸€æ¬¡æ–°çš„ git commit æ“ä½œã€‚
+è¿™ä¹Ÿæ˜¯ä¸ºä»€ä¹ˆé‡‡ç”¨ -no-ff æ¨¡å¼è¦åŠ å…¥å‚æ•° -m çš„åŸå› ã€‚
 
-end of (·ÖÖ§¹ÜÀí²ßÂÔ)
+end of (åˆ†æ”¯ç®¡ç†ç­–ç•¥)
 
 
-Bug·ÖÖ§
+Bugåˆ†æ”¯
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137602359178794d966923e5c4134bc8bf98dfb03aea3000
 7:21 2017/6/6
-stash¹¦ÄÜ£¬ÓÃÓÚÁÙÊ±±£´æËùÓĞ¹¤×÷ÏÖ³¡ÓëÔİ´æÇø£¬Ïàµ±ÓÚcommit -a
-ĞŞ¸Äreadme.txt,ĞÂ½¨ÎÄ¼şhello.py
+stashåŠŸèƒ½ï¼Œç”¨äºä¸´æ—¶ä¿å­˜æ‰€æœ‰å·¥ä½œç°åœºä¸æš‚å­˜åŒºï¼Œç›¸å½“äºcommit -a
+ä¿®æ”¹readme.txt,æ–°å»ºæ–‡ä»¶hello.py
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -574,96 +574,96 @@ Git tracks changes.
 Createing a new branch is quick and simple   git merge --no-ff
 stash test start
 
-²é¿´×´Ì¬£¬ÓĞĞŞ¸ÄÓëĞÂÔö,stashºóÔÙ²é¿´,¸ú×ÙÎÄ¼şÈ«Ïàµ±ÓÚÌá½»ÁË
-ÔÚÖ÷·ÖÇø´´½¨BUG·ÖÖ§£¬À´ĞŞ¸º
-dev·ÖÖ§ID ĞÂÔöreflog  73df054 HEAD@{0}: reset: moving to HEAD
-dev·ÖÖ§ID logÃ»ÓĞ±ä»¯
+æŸ¥çœ‹çŠ¶æ€ï¼Œæœ‰ä¿®æ”¹ä¸æ–°å¢,stashåå†æŸ¥çœ‹,è·Ÿè¸ªæ–‡ä»¶å…¨ç›¸å½“äºæäº¤äº†
+åœ¨ä¸»åˆ†åŒºåˆ›å»ºBUGåˆ†æ”¯ï¼Œæ¥ä¿®è´Ÿ
+devåˆ†æ”¯ID æ–°å¢reflog  73df054 HEAD@{0}: reset: moving to HEAD
+devåˆ†æ”¯ID logæ²¡æœ‰å˜åŒ–
 
 $ git status
 $ git checkout master
 $ git checkout -b issue-101
 
-ĞŞ¸Äreadme.txtÎÄ¼ş£¬²¢issue-101·ÖÖ§Ìá½»
+ä¿®æ”¹readme.txtæ–‡ä»¶ï¼Œå¹¶issue-101åˆ†æ”¯æäº¤
 $ git add readme.txt
 $ git commit -m "fix bug 101"
 
-ºÏ²¢issue-101µ½master·ÖÖ§,²¢É¾³ı£¬ÖĞÍ¾¿´Ò»ÏÂlogÓëreflog
+åˆå¹¶issue-101åˆ°masteråˆ†æ”¯,å¹¶åˆ é™¤ï¼Œä¸­é€”çœ‹ä¸€ä¸‹logä¸reflog
 $ git checkout master
 $ git merge --no-ff -m "merged bug fix 101" issue-101
 $ git branch -d issue-101
 
-»Ö¸´devÏÖ³¡,listÊÇÁĞ±í£¬ÓÃapplyÒªÓÃdropÉ¾³ı£¬ÓÃpop±í»Ö¸´ÓëÉ¾³ı
+æ¢å¤devç°åœº,listæ˜¯åˆ—è¡¨ï¼Œç”¨applyè¦ç”¨dropåˆ é™¤ï¼Œç”¨popè¡¨æ¢å¤ä¸åˆ é™¤
 $ git checkout dev
 $ git stash list
 $ git stash apply
-»ò
+æˆ–
 $ git stash pop
 
-»Ö¸´Ö¸¶¨stash,ÓÃlistÀ´¿´
+æ¢å¤æŒ‡å®šstash,ç”¨listæ¥çœ‹
 $ git stash apply stash@{0}
 
 
-½âÓ¡Ê±»áÓĞÌáÊ¾³åÍ»£¬ĞèÊÖ¶¯¸ÄÒ»´ÎÎÄ¼ş
-½¾°Á¶ùÍ¯¿É°®¶à created at 2-16 17:13, Last updated at 5-27 10:53
-¸ÅÀÀ£ºmasterºÏ²¢merge½â¾öºÃµÄbugºó£¬²»ÒªÏÈ°Ñdev½âÓ¡£¬ÏÈºÏ²¢master£¬»ñÈ¡ÀïÃæµÄbug·½°¸ºó£¬ÔÚ½âÓ¡¡£½âÓ¡Ê±»áÓĞÌáÊ¾³åÍ»£¬ĞèÊÖ¶¯¸ÄÒ»´ÎÎÄ¼ş¡£
+è§£å°æ—¶ä¼šæœ‰æç¤ºå†²çªï¼Œéœ€æ‰‹åŠ¨æ”¹ä¸€æ¬¡æ–‡ä»¶
+éª„å‚²å„¿ç«¥å¯çˆ±å¤š created at 2-16 17:13, Last updated at 5-27 10:53
+æ¦‚è§ˆï¼šmasteråˆå¹¶mergeè§£å†³å¥½çš„bugåï¼Œä¸è¦å…ˆæŠŠdevè§£å°ï¼Œå…ˆåˆå¹¶masterï¼Œè·å–é‡Œé¢çš„bugæ–¹æ¡ˆåï¼Œåœ¨è§£å°ã€‚è§£å°æ—¶ä¼šæœ‰æç¤ºå†²çªï¼Œéœ€æ‰‹åŠ¨æ”¹ä¸€æ¬¡æ–‡ä»¶ã€‚
 
-1£ºÔÚ  dev ÏÂÕı³£¿ª·¢ÖĞ£¬ËµÓĞ1¸öbugÒª½â¾ö£¬Ê×ÏÈÎÒĞèÒª°Ñdev·ÖÖ§·â´æstash
+1ï¼šåœ¨  dev ä¸‹æ­£å¸¸å¼€å‘ä¸­ï¼Œè¯´æœ‰1ä¸ªbugè¦è§£å†³ï¼Œé¦–å…ˆæˆ‘éœ€è¦æŠŠdevåˆ†æ”¯å°å­˜stash
 
-2£ºÔÚmasterÏÂĞÂ½¨Ò»¸öissue-101·ÖÖ§£¬½â¾öbug£¬³É¹¦ºó
+2ï¼šåœ¨masterä¸‹æ–°å»ºä¸€ä¸ªissue-101åˆ†æ”¯ï¼Œè§£å†³bugï¼ŒæˆåŠŸå
 
-3£ºÔÚmasterÏÂºÏ²¢issue-101
+3ï¼šåœ¨masterä¸‹åˆå¹¶issue-101
 
-4£ºÔÚ dev  ÏÂºÏ²¢master£¬  ÕâÑù²ÅÍ¬²½ÁËÀïÃæµÄbug½â¾ö·½°¸
+4ï¼šåœ¨ dev  ä¸‹åˆå¹¶masterï¼Œ  è¿™æ ·æ‰åŒæ­¥äº†é‡Œé¢çš„bugè§£å†³æ–¹æ¡ˆ
 
-5£º½â¿ªdev·âÓ¡stash pop£¬ÏµÍ³×Ô¶¯ºÏ²¢ & ÌáÊ¾ÓĞ³åÍ»£¬ÒòÎª·â´æÇ°devĞ´ÁË¶«Î÷£¬´ËÊ±È¥ÎÄ¼şÀïÊÖ¶¯¸Ä³åÍ»
+5ï¼šè§£å¼€devå°å°stash popï¼Œç³»ç»Ÿè‡ªåŠ¨åˆå¹¶ & æç¤ºæœ‰å†²çªï¼Œå› ä¸ºå°å­˜å‰devå†™äº†ä¸œè¥¿ï¼Œæ­¤æ—¶å»æ–‡ä»¶é‡Œæ‰‹åŠ¨æ”¹å†²çª
 
-6£º¼ÌĞø¿ª·¢dev£¬×îºóadd£¬commit
+6ï¼šç»§ç»­å¼€å‘devï¼Œæœ€åaddï¼Œcommit
 
-7£ºÔÚmasterÏÂºÏ²¢×îºóÍê³ÉµÄdev
+7ï¼šåœ¨masterä¸‹åˆå¹¶æœ€åå®Œæˆçš„dev
 
-´úÂë¹ı³ÌÈçÏÂ£º
+ä»£ç è¿‡ç¨‹å¦‚ä¸‹ï¼š
 
 ```
-ÔÚ´Ë²åÈë´úÂë
+åœ¨æ­¤æ’å…¥ä»£ç 
 
-1£º $ git stash
+1ï¼š $ git stash
 
-2£º $ git checkout master
+2ï¼š $ git checkout master
    $ git checkout -b issue-101
-    //È¥ÎÄ¼şÀïĞŞbug
+    //å»æ–‡ä»¶é‡Œä¿®bug
     $ git add README.md
     $ git commit -m "fix-issue-101"
 
-3£º $ git checkout master
+3ï¼š $ git checkout master
    $ git merge --no-ff -m "m-merge-issue-101" issue-101
    $ git branch -d issue-101
 
-4£º $ git checkout dev
+4ï¼š $ git checkout dev
     $ git merge --no-ff -m "dev-merge-m" master
 
-5£º $ git stash pop
-            //ÌáÊ¾³åÍ»£¬È¥ÎÄ¼şÊÖ¶¯¸ÄÕı
+5ï¼š $ git stash pop
+            //æç¤ºå†²çªï¼Œå»æ–‡ä»¶æ‰‹åŠ¨æ”¹æ­£
             Auto-merging README.md
             CONFLICT (content): Merge conflict in README.md
 
-6£º //¼ÌĞø¿ª·¢ ... ... £¬Íê³ÉºóÒ»²¢Ìá½»
+6ï¼š //ç»§ç»­å¼€å‘ ... ... ï¼Œå®Œæˆåä¸€å¹¶æäº¤
     $ git add README.md
     $ git commit -m "fixconflict & append something"
 
-7£º $ git checkout master
+7ï¼š $ git checkout master
     $ git merge --no-ff -m "m-merge-dev" dev
     $ git branch -d dev
-end of (Bug·ÖÖ§)
+end of (Bugåˆ†æ”¯)
 
 
-** Feature·ÖÖ§
+** Featureåˆ†æ”¯
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001376026233004c47f22a16d1f4fa289ce45f14bbc8f11000
 21:58 2017/6/6
-Ìí¼ÓĞÂ¹¦ÄÜ£¬ĞÂ½¨·ÖÖ§feature-vulcan, ÔÚdev»ù´¡ÉÏ
+æ·»åŠ æ–°åŠŸèƒ½ï¼Œæ–°å»ºåˆ†æ”¯feature-vulcan, åœ¨devåŸºç¡€ä¸Š
 yuly@yuly-PC MINGW32 /d/yuly/doc/gitlearn/liaoGit/learngit (dev)
 $ git checkout -b feature-vulcan
 
-ĞÂ¹¦ÄÜ¿ª·¢Íê³É£¬Ìá½»ĞÂÎÄ¼şvulcan.py
+æ–°åŠŸèƒ½å¼€å‘å®Œæˆï¼Œæäº¤æ–°æ–‡ä»¶vulcan.py
 $ git add vulcan.py
 $ git status
 On branch feature-vulcan
@@ -675,23 +675,23 @@ Changes to be committed:
 
 $ git commit -m "add feature vulcan"
 
-ÇĞ»Ødev
+åˆ‡å›dev
 $ git checkout dev
 
-É¾³ı³ö´í,²»ÊÇÒ»¸öÈ«ºÏ²¢£¬±íÃ»ÓĞºÏ²¢µ½ÆäËü·ÖÖ§,ÓÃ´óĞ´-D¾ÍĞĞÁË
+åˆ é™¤å‡ºé”™,ä¸æ˜¯ä¸€ä¸ªå…¨åˆå¹¶ï¼Œè¡¨æ²¡æœ‰åˆå¹¶åˆ°å…¶å®ƒåˆ†æ”¯,ç”¨å¤§å†™-Då°±è¡Œäº†
 $ git branch -d feature-vulcan
 error: The branch 'feature-vulcan' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D feature-vulcan'.
 
 
-¶àÈËĞ­×÷
-end of (** Feature·ÖÖ§)
+å¤šäººåä½œ
+end of (** Featureåˆ†æ”¯)
 
 
-** ¶àÈËĞ­×÷
+** å¤šäººåä½œ
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013760174128707b935b0be6fc4fc6ace66c4f15618f8d000
 6:30 2017/6/7
-²é¿´Ô¶³Ì²Ö¿âĞÅÏ¢£¬Ä¬ÈÏÎªorigin, Ë«ÏòÎªfetch(pull), push
+æŸ¥çœ‹è¿œç¨‹ä»“åº“ä¿¡æ¯ï¼Œé»˜è®¤ä¸ºorigin, åŒå‘ä¸ºfetch(pull), push
 $ git remote
 myshh3
 myssh
@@ -701,27 +701,27 @@ $ git remote -v
 myshh3  git@github.com:yuly/gitlearn.git (fetch)
 myshh3  git@github.com:yuly/gitlearn.git (push)
 
-ÉÏ´«Á½¸ö·ÖÖ§£¬ÕâÀïÊÇmaster, dev   Ä¿±ê½Ì³ÌÖĞÊÇorigin
+ä¸Šä¼ ä¸¤ä¸ªåˆ†æ”¯ï¼Œè¿™é‡Œæ˜¯master, dev   ç›®æ ‡æ•™ç¨‹ä¸­æ˜¯origin
 $ git push myshh3 master
 $ git push myshh3 dev
 
-Ä£ÄâÁíÒ»¸öÈËÔ±£¬ÔÚÁíÒ»Ì¨µçÄÔ,×¢ÒâSSH KeyÌí¼Óµ½GitHub, »òÍ¬Ò»µçÄÔ±ğÒ»¸öĞÂ¶ÀÁ¢Ä¿Â¼
+æ¨¡æ‹Ÿå¦ä¸€ä¸ªäººå‘˜ï¼Œåœ¨å¦ä¸€å°ç”µè„‘,æ³¨æ„SSH Keyæ·»åŠ åˆ°GitHub, æˆ–åŒä¸€ç”µè„‘åˆ«ä¸€ä¸ªæ–°ç‹¬ç«‹ç›®å½•
 $ git clone git@github.com:yuly/gitlearn.git
 
-ÉèÖÃÏîÄ¿ĞÅÏ¢
+è®¾ç½®é¡¹ç›®ä¿¡æ¯
 $ git config user.name "sky"
 $ git config user.email "sky@hello.world"
 
-×Ô¶¯±äÎªÄ¬ÈÏorigin, ÕâÇ°ÍÆËÍ±ğÃûÃ»ÓĞÓ°Ïì£¬
+è‡ªåŠ¨å˜ä¸ºé»˜è®¤origin, è¿™å‰æ¨é€åˆ«åæ²¡æœ‰å½±å“ï¼Œ
 $ git remote -v
 origin  git@github.com:yuly/gitlearn.git (fetch)
 origin  git@github.com:yuly/gitlearn.git (push)
 
-Ö»ÓĞmaster·ÖÖ§
+åªæœ‰masteråˆ†æ”¯
 $ git branch
 * master
 
-´´½¨Ô¶³Ì·ÖÖ§µ½±¾µØ,ĞŞ¸ÄÎÄ¼şreadme.txt£¬²¢Ìá½»
+åˆ›å»ºè¿œç¨‹åˆ†æ”¯åˆ°æœ¬åœ°,ä¿®æ”¹æ–‡ä»¶readme.txtï¼Œå¹¶æäº¤
 $ git checkout -b dev origin/dev
 
 Git is a distributed version control system.
@@ -735,7 +735,7 @@ $ git add readme.txt
 $ git commit -m "add /usr/bin/evn"
 $ git push origin dev
 
-Ô­Ê¼ÈËÔ±Õâ±ß,Ìí¼Óhappy.pyĞŞ¸Ä, Ìá½»²úÉú³åÍ»
+åŸå§‹äººå‘˜è¿™è¾¹,æ·»åŠ happy.pyä¿®æ”¹, æäº¤äº§ç”Ÿå†²çª
 $ vi hello.py
 $ git add hello.py
 $ git commit -m "add coding: utf-8"
@@ -749,104 +749,104 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-½â¾ö³åÍ»£¬ÏÈpullµ½±¾µØ£¬ÈçÊÇÄ¬ÈÏorigin, ÕâÀï¿É²»Ğ´×Ô¶¨Ãû³Æmyshh3,ÓëÏÂÔØµ½ÄÇ¸ö·ÖÖ§dev
+è§£å†³å†²çªï¼Œå…ˆpullåˆ°æœ¬åœ°ï¼Œå¦‚æ˜¯é»˜è®¤origin, è¿™é‡Œå¯ä¸å†™è‡ªå®šåç§°myshh3,ä¸ä¸‹è½½åˆ°é‚£ä¸ªåˆ†æ”¯dev
 $ git pull myshh3 dev
 $ git branch --set-upstream dev myshh3/dev
 
-ÈçÊÇpullÄ¬ÈÏ£¬Òª½¨Á¢Ô¶³Ì·ÖÖ§Óë±¾µØÖ¸¶¨·ÖÖ§¹ØÁª,×îºóÔÙpull£¬ ×Ô¶¯ºÏ²¢
+å¦‚æ˜¯pullé»˜è®¤ï¼Œè¦å»ºç«‹è¿œç¨‹åˆ†æ”¯ä¸æœ¬åœ°æŒ‡å®šåˆ†æ”¯å…³è”,æœ€åå†pullï¼Œ è‡ªåŠ¨åˆå¹¶
 $ git pull
 $ git branch --set-upstream dev origin/dev
 $ git pull
 
-É¾³ı·ÖÖ§
+åˆ é™¤åˆ†æ”¯
 git push origin :<branch name>
 
 
-ĞÂ½¨Ò»¸öRepository
-½ø1ÈëRepositoryµÄSettings
-ÔÚCollaboratorsÀï¾Í¿ÉÒÔÌí¼ÓºÏ×÷ÕßÁË
-½«Éú³ÉµÄµØÖ··¢¸øÄãµÄºÏ×÷Õß£¬ºÏ×÷ÕßÑ¡ÔñÊÇ·ñÍ¬Òâ
-½ÓÏÂÀ´¾Í¿ÉÒÔÓä¿ìµÄºÏ×÷¿ª·¢ÁË
+æ–°å»ºä¸€ä¸ªRepository
+è¿›1å…¥Repositoryçš„Settings
+åœ¨Collaboratorsé‡Œå°±å¯ä»¥æ·»åŠ åˆä½œè€…äº†
+å°†ç”Ÿæˆçš„åœ°å€å‘ç»™ä½ çš„åˆä½œè€…ï¼Œåˆä½œè€…é€‰æ‹©æ˜¯å¦åŒæ„
+æ¥ä¸‹æ¥å°±å¯ä»¥æ„‰å¿«çš„åˆä½œå¼€å‘äº†
 
-end ** ¶àÈËĞ­×÷
-end of (·ÖÖ§¹ÜÀí)
+end ** å¤šäººåä½œ
+end of (åˆ†æ”¯ç®¡ç†)
 
 
-* ±êÇ©¹ÜÀí
+* æ ‡ç­¾ç®¡ç†
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013762144381812a168659b3dd4610b4229d81de5056cc000
 21:13 2017/6/7
-Ô­Àí¾ÍÊÇÖ¸ÏòÒ»¸öCOMMIT ID£¬ÄÚÈİÓÀÔ¶²»»á±ä£¬·ÖÖ§Ö¸Õë»á±ä»¯
-ÈÏÈËºÃ¼Ç×öCOMMIT ID
+åŸç†å°±æ˜¯æŒ‡å‘ä¸€ä¸ªCOMMIT IDï¼Œå†…å®¹æ°¸è¿œä¸ä¼šå˜ï¼Œåˆ†æ”¯æŒ‡é’ˆä¼šå˜åŒ–
+è®¤äººå¥½è®°åšCOMMIT ID
 
-** ´´½¨±êÇ©
+** åˆ›å»ºæ ‡ç­¾
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001376951758572072ce1dc172b4178b910d31bc7521ee4000
 21:18 2017/6/7
-ÇĞ»»µ½Òª´ò±êÇ©µÄ·ÖÖ§ÉÏ
+åˆ‡æ¢åˆ°è¦æ‰“æ ‡ç­¾çš„åˆ†æ”¯ä¸Š
 $ git branch
 $ git checkout master
 
-´òÒ»¸öĞÂ±êÇ©
+æ‰“ä¸€ä¸ªæ–°æ ‡ç­¾
 $ git tag v1.0
 $ git tag
 
-ÎªÖ¸¶¨commit idµÄ´ò±êÇ©,commit idÊÇadd merge
+ä¸ºæŒ‡å®šcommit idçš„æ‰“æ ‡ç­¾,commit idæ˜¯add merge
 $ git tag v0.9 73df054
 
-²é¿´±êÇ©ÏêÏ¸ĞÅÏ¢
+æŸ¥çœ‹æ ‡ç­¾è¯¦ç»†ä¿¡æ¯
 $ git show v0.9
 
-»¹¿ÉÒÔÍ¨¹ı-sÓÃË½Ô¿Ç©ÃûÒ»¸ö±êÇ©£º
+è¿˜å¯ä»¥é€šè¿‡-sç”¨ç§é’¥ç­¾åä¸€ä¸ªæ ‡ç­¾ï¼š
 $ git tag -s v0.2 -m "signed version 0.2 released" fec145a
 
-´´½¨´øÓĞËµÃ÷µÄ±êÇ©-a±í±êÇ©Ãû£¬ -mÖ¸¶¨ËµÃ÷ÎÄ×Ö,ÕâÀï°ÑÌá½»
-add distributed×öÎªÒ»¸ö±êÇ©
+åˆ›å»ºå¸¦æœ‰è¯´æ˜çš„æ ‡ç­¾-aè¡¨æ ‡ç­¾åï¼Œ -mæŒ‡å®šè¯´æ˜æ–‡å­—,è¿™é‡ŒæŠŠæäº¤
+add distributedåšä¸ºä¸€ä¸ªæ ‡ç­¾
 $ git log --pretty=oneline --abbrev-commit
 $ git tag -a v0.1 -m "version 0.1 released" 2e95965
 $ git show v0.1
 
-end of (** ´´½¨±êÇ©)
+end of (** åˆ›å»ºæ ‡ç­¾)
 
 
-** ²Ù×÷±êÇ©
+** æ“ä½œæ ‡ç­¾
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001376951885068a0ac7d81c3a64912b35a59b58a1d926b000
 22:15 2017/6/7
-É¾³ı±êÇ©
+åˆ é™¤æ ‡ç­¾
 $ git tag -d v0.1
 Deleted tag 'v0.1' (was 7e0d926)
 
-±êÇ©²»»á×Ô¶¯ÍÆËÍµ½Ô¶³Ì£¬Ö»´æ´¢ÔÚ±¾µØ
+æ ‡ç­¾ä¸ä¼šè‡ªåŠ¨æ¨é€åˆ°è¿œç¨‹ï¼Œåªå­˜å‚¨åœ¨æœ¬åœ°
 $ git push myshh3 v1.0
 
-ÍÆËÍËùÓĞ±êÇ©µ½Ô¶³Ì
+æ¨é€æ‰€æœ‰æ ‡ç­¾åˆ°è¿œç¨‹
 $ git push myshh3 --tags
 
-É¾³ıÔ¶³Ì±êÇ©£¬ÏÈÉ¾±¾µØ,Ã°ºÅÇ°Ã»ÓĞÏàµ±ÓÚÒ»¸ö¿Õ±êÇ©È¥Ìæ»»
+åˆ é™¤è¿œç¨‹æ ‡ç­¾ï¼Œå…ˆåˆ æœ¬åœ°,å†’å·å‰æ²¡æœ‰ç›¸å½“äºä¸€ä¸ªç©ºæ ‡ç­¾å»æ›¿æ¢
 $ git tag -d v0.9
 Deleted tag 'v0.9' (was 73df054)
 
 $ git push myshh3 :refs/tags/v0.9
-»ò,»¹¿ÉÒÔ²»É¾³ı±¾µØ±êÇ©
+æˆ–,è¿˜å¯ä»¥ä¸åˆ é™¤æœ¬åœ°æ ‡ç­¾
 git push origin :<tag name>
 
 
-end of (** ²Ù×÷±êÇ©)
-end of (* ±êÇ©¹ÜÀí)
+end of (** æ“ä½œæ ‡ç­¾)
+end of (* æ ‡ç­¾ç®¡ç†)
 
 
-* Ê¹ÓÃGitHub
+* ä½¿ç”¨GitHub
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000
 22:34 2017/6/7
-Forkµ½×Ô¼ºÃûÏÂ,github.comÖĞ£¬µã»÷Fork, ĞŞ¸ÄºóPull Requestµ½¶Ô·½£¬¿´ÊÇ·ñ½ÓÊÜ
+Forkåˆ°è‡ªå·±åä¸‹,github.comä¸­ï¼Œç‚¹å‡»Fork, ä¿®æ”¹åPull Requeståˆ°å¯¹æ–¹ï¼Œçœ‹æ˜¯å¦æ¥å—
 https://github.com/twbs/bootstrap
 
-²âÊÔ
+æµ‹è¯•
 https://github.com/michaelliao/learngit
 
-end of (* Ê¹ÓÃGitHub)
+end of (* ä½¿ç”¨GitHub)
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-3. °Ñ±¾µØÄÚÈİÍÆËÍµ½githubÔ¶³Ì¿âÉÏ(µÚÒ»´Îpush ²ÎÊı´ø `-u` ¹ØÁªÔ¶³Ì²Ö¿â)
+3. æŠŠæœ¬åœ°å†…å®¹æ¨é€åˆ°githubè¿œç¨‹åº“ä¸Š(ç¬¬ä¸€æ¬¡push å‚æ•°å¸¦ `-u` å…³è”è¿œç¨‹ä»“åº“)
 
 		$ git push -u origin master
 
@@ -854,12 +854,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 $ git clone git@github.com:yuly/learngit
 $ git clone git@github.com:yuly/learngit.git
 
-¿´·ÖÖ§ÀúÊ·
+çœ‹åˆ†æ”¯å†å²
 $ git log --graph --pretty=oneline --abbrev-commit
 $ git log --pretty=oneline --abbrev-commit
 a26d8f0 merged bug fix 101
 
-Ö¸¶¨·ÖÖ§
+æŒ‡å®šåˆ†æ”¯
 $ git log --branches="issue-101" --pretty=oneline
 
 $ git stash apply
@@ -871,12 +871,12 @@ $ git branch -d feature-vulcan
 $ git branch -D feature-vulcan
 
 
-git add a.txt -> Æ¥Åäµ½a.txt
-git add *.txt -> Æ¥Åäµ½µ±Ç°Ä¿Â¼ÏÂËùÓĞtxt
-git add **/*.txt -> Æ¥Åäµ½µ±Ç°Ä¿Â¼ºÍ×ÓÄ¿Â¼ÏÂËùÓĞtxt
-git add . -> Æ¥Åäµ½µ±Ç°Ä¿Â¼ÏÂËùÓĞÎÄ¼ş
+git add a.txt -> åŒ¹é…åˆ°a.txt
+git add *.txt -> åŒ¹é…åˆ°å½“å‰ç›®å½•ä¸‹æ‰€æœ‰txt
+git add **/*.txt -> åŒ¹é…åˆ°å½“å‰ç›®å½•å’Œå­ç›®å½•ä¸‹æ‰€æœ‰txt
+git add . -> åŒ¹é…åˆ°å½“å‰ç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶
 
-Í¨¹ı½«GitÅäÖÃ±äÁ¿ core.quotepath ÉèÖÃÎªfalse£¬¾Í¿ÉÒÔ½â¾öÖĞÎÄÎÄ¼şÃû³ÆÔÚÕâĞ©GitÃüÁîÊä³öÖĞµÄÏÔÊ¾ÎÊÌâ£¬Ê¾Àı£º
+é€šè¿‡å°†Gité…ç½®å˜é‡ core.quotepath è®¾ç½®ä¸ºfalseï¼Œå°±å¯ä»¥è§£å†³ä¸­æ–‡æ–‡ä»¶åç§°åœ¨è¿™äº›Gitå‘½ä»¤è¾“å‡ºä¸­çš„æ˜¾ç¤ºé—®é¢˜ï¼Œç¤ºä¾‹ï¼š
 $ git config --global core.quotepath false
 
 $ git clone https://github.com/yuly/gitskills
@@ -884,19 +884,19 @@ $ git clone https://github.com/yuly/gitskills
 $ git remote add myshh3 git@github.com:yuly/gitlearn.git
 
 $ git push myshh3 master
-»ò
+æˆ–
 $ git push
 
-1 ËµµÄÒ²²»Çå³ş£¬Ó¦¸Ã»¹ÊÇÒªÇø·Ö
-¼Ù¶¨HEAD°æ±¾Îª°æ±¾1
+1 è¯´çš„ä¹Ÿä¸æ¸…æ¥šï¼Œåº”è¯¥è¿˜æ˜¯è¦åŒºåˆ†
+å‡å®šHEADç‰ˆæœ¬ä¸ºç‰ˆæœ¬1
 
-1¡¢¹¤×÷ÇøÄãĞŞ¸ÄÁË£¬Îª °æ±¾2 £¬µ«Ã»add£¬ÄÇÃ´ checkout ¾Í»áÊ¹Äã¹¤×÷Çø»Øµ½°æ±¾1
-2¡¢¹¤×÷ÇøÄãĞŞ¸ÄÁË£¬Îª°æ±¾2£¬addÁË£¬stageÇøÒ²Îª°æ±¾2£¬È»ºóÄãÓÖĞŞ¸ÄÁË¹¤×÷Çø£¬Îª°æ±¾3£¬Ã»ÔÙ´Îadd£¬ÄÇÃ´checkout¾Í»áÊ¹Äã¹¤×÷ÇøÎª°æ±¾2
-ËùÓĞ¿ÉÀí½âÎª×î½ü¾àÀë²Ù×÷·½Ïò,¹¤×÷ÇøÔÙ´ÎĞŞ¸Ä£¬checkout²»»áÉúĞ§£¬×èÖ¹£¬Òªreset,   resetÒ²¿ÉÈ¡ÏûÌá½»£¬²»Ò»¶¨Òª»Ø¹¤×÷Çø£¬Ïàµ±Ò»¸öÎÄ¼şÌá½»¿ª¹Ø
-ÎÄ¼şÃ»ÓĞ£¬¾ÍÍùÔÙÒ»¼¶È¡ÎÄ¼ş       ¹¤×÷Çø(work)->Î´Ôİ´æunstage->Ôİ´æÇøstage->·ÖÖ§
-Ôİ´æÇøstage,Ö±ÓÃgit checkout -- <filename>	Ã»ÓĞÓÃ
-resetÄ¬ÈÏÖ»ÄÜÒ»¼¶£¬ Òª°æ±¾µ½¹¤×÷ÇøÓÃ²ÎÊı--hard        Ö¸¶¨°æ±¾  Ä¬ÈÏstage,unstage±»Çå¿ÕÑ¡ÔñÎÄ¼ş£¬ÄÚÈİÒ»Ñù£¬   Ã»ÓĞ°æ±¾£¬stage->unstage
-unstageÇø ĞŞ¸Ä£¬ĞÂÔö£¬É¾³ı ×Ô¶¯git·´Ó³³öÀ´,¿½±´µÄ
+1ã€å·¥ä½œåŒºä½ ä¿®æ”¹äº†ï¼Œä¸º ç‰ˆæœ¬2 ï¼Œä½†æ²¡addï¼Œé‚£ä¹ˆ checkout å°±ä¼šä½¿ä½ å·¥ä½œåŒºå›åˆ°ç‰ˆæœ¬1
+2ã€å·¥ä½œåŒºä½ ä¿®æ”¹äº†ï¼Œä¸ºç‰ˆæœ¬2ï¼Œaddäº†ï¼ŒstageåŒºä¹Ÿä¸ºç‰ˆæœ¬2ï¼Œç„¶åä½ åˆä¿®æ”¹äº†å·¥ä½œåŒºï¼Œä¸ºç‰ˆæœ¬3ï¼Œæ²¡å†æ¬¡addï¼Œé‚£ä¹ˆcheckoutå°±ä¼šä½¿ä½ å·¥ä½œåŒºä¸ºç‰ˆæœ¬2
+æ‰€æœ‰å¯ç†è§£ä¸ºæœ€è¿‘è·ç¦»æ“ä½œæ–¹å‘,å·¥ä½œåŒºå†æ¬¡ä¿®æ”¹ï¼Œcheckoutä¸ä¼šç”Ÿæ•ˆï¼Œé˜»æ­¢ï¼Œè¦reset,   resetä¹Ÿå¯å–æ¶ˆæäº¤ï¼Œä¸ä¸€å®šè¦å›å·¥ä½œåŒºï¼Œç›¸å½“ä¸€ä¸ªæ–‡ä»¶æäº¤å¼€å…³
+æ–‡ä»¶æ²¡æœ‰ï¼Œå°±å¾€å†ä¸€çº§å–æ–‡ä»¶       å·¥ä½œåŒº(work)->æœªæš‚å­˜unstage->æš‚å­˜åŒºstage->åˆ†æ”¯
+æš‚å­˜åŒºstage,ç›´ç”¨git checkout -- <filename>	æ²¡æœ‰ç”¨
+reseté»˜è®¤åªèƒ½ä¸€çº§ï¼Œ è¦ç‰ˆæœ¬åˆ°å·¥ä½œåŒºç”¨å‚æ•°--hard        æŒ‡å®šç‰ˆæœ¬  é»˜è®¤stage,unstageè¢«æ¸…ç©ºé€‰æ‹©æ–‡ä»¶ï¼Œå†…å®¹ä¸€æ ·ï¼Œ   æ²¡æœ‰ç‰ˆæœ¬ï¼Œstage->unstage
+unstageåŒº ä¿®æ”¹ï¼Œæ–°å¢ï¼Œåˆ é™¤ è‡ªåŠ¨gitåæ˜ å‡ºæ¥,æ‹·è´çš„
 
 add->commit
 checkout<-reset
@@ -906,182 +906,182 @@ checkout<-reset
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
-·ÖÖ§¹ÜÀí
+åˆ†æ”¯ç®¡ç†
 
 
-´´½¨ÓëºÏ²¢·ÖÖ§
+åˆ›å»ºä¸åˆå¹¶åˆ†æ”¯
 
-´´½¨²¢ÇĞ»»µ½
+åˆ›å»ºå¹¶åˆ‡æ¢åˆ°
 $ git checkout -b dev
-µÈÍ¬
+ç­‰åŒ
 $ git branch dev
 $ git checkout dev
 
 $ git branch
 
-ĞŞ¸Äreadme.txt
+ä¿®æ”¹readme.txt
 $ git add readme.txt
 $ git commit -m "branch test"
 $ git checkout master
-²é¿´readme.txt£¬ÄÚÈİÒÑ·µ»Ø
-ºÏ²¢·ÖÖ§µ½µ±Ç°·ÖÖ§
+æŸ¥çœ‹readme.txtï¼Œå†…å®¹å·²è¿”å›
+åˆå¹¶åˆ†æ”¯åˆ°å½“å‰åˆ†æ”¯
 $ git merge dev
-É¾³ı·ÖÖ§dev
+åˆ é™¤åˆ†æ”¯dev
 $ git branch -d dev
 
 
-Ğ¡½á
-²é¿´·ÖÖ§£ºgit branch
-´´½¨·ÖÖ§£ºgit branch <name>
+å°ç»“
+æŸ¥çœ‹åˆ†æ”¯ï¼šgit branch
+åˆ›å»ºåˆ†æ”¯ï¼šgit branch <name>
 	$ git branch -f <branch> [<start point>]
-ÇĞ»»Ö§·ÖÖ§£ºgit checkout <name>
-´´½¨+ÇĞ»»·ÖÖ§£ºgit checkout -b <name>
-ºÏ²¢Ä³·ÖÖ§µ½µ±Ç°·ÖÖ§£ºgit merge <name>
-É¾³ı·ÖÖ§£ºgit branch -d <name>
+åˆ‡æ¢æ”¯åˆ†æ”¯ï¼šgit checkout <name>
+åˆ›å»º+åˆ‡æ¢åˆ†æ”¯ï¼šgit checkout -b <name>
+åˆå¹¶æŸåˆ†æ”¯åˆ°å½“å‰åˆ†æ”¯ï¼šgit merge <name>
+åˆ é™¤åˆ†æ”¯ï¼šgit branch -d <name>
 
 
-git push origin master Ò²Ã»ÓĞÍêÈ«ºÏ²¢
-ÄãÒª×Ô¼ºpush±¾µØdev·ÖÖ§µ½Ô¶³Ì
+git push origin master ä¹Ÿæ²¡æœ‰å®Œå…¨åˆå¹¶
+ä½ è¦è‡ªå·±pushæœ¬åœ°devåˆ†æ”¯åˆ°è¿œç¨‹
 git push origin dev
-end of (´´½¨ÓëºÏ²¢·ÖÖ§)
+end of (åˆ›å»ºä¸åˆå¹¶åˆ†æ”¯)
 
 
-½â¾ö³åÍ»
+è§£å†³å†²çª
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840202368c74be33fbd884e71b570f2cc3c0d1dcf000
 $ git checkout -b feature1 #Switched to a new branch 'feature1'
-ĞŞ¸ÄÎÄ¼şreadme.txt
+ä¿®æ”¹æ–‡ä»¶readme.txt
 $ git add readme.txt
 $ git log --pretty=oneline
 $ git checkout master
-ĞŞ¸ÄÎÄ¼şreadme.txt
+ä¿®æ”¹æ–‡ä»¶readme.txt
 $ git add readme.txt
 $ git commit -m "% simple"
 
-ºÏ²¢·ÖÖ§-³åÍ»
+åˆå¹¶åˆ†æ”¯-å†²çª
 $ git merge feature1
 $ git status
-$ cat readme.txt		;HEADµ½======±íµ±Ç°·ÖÖ§£¬====µ½·ÖÖ§ÃûÎªÒªºÏ²¢·ÖÖ§µÄÄÚÈİ
+$ cat readme.txt		;HEADåˆ°======è¡¨å½“å‰åˆ†æ”¯ï¼Œ====åˆ°åˆ†æ”¯åä¸ºè¦åˆå¹¶åˆ†æ”¯çš„å†…å®¹
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple
 >>>>>>> feature1
 
-ĞŞ¸ÄºóÔÙÌá½»£º
+ä¿®æ”¹åå†æäº¤ï¼š
 $ vi readme.txt
 $ git add readme.txt
 $ git commit -m "conflict fixed"
 
 yuly@yuly-PC MINGW32 /d/yuly/doc/gitLiaoxuefeng (master|MERGING)
-±äÎª,ÉÙÁËMERGING
+å˜ä¸º,å°‘äº†MERGING
 yuly@yuly-PC MINGW32 /d/yuly/doc/gitLiaoxuefeng (master)
 
 $ git log --pretty=oneline --graph --abbrev-commit
-É¾³ıfeature1·ÖÖ§
+åˆ é™¤feature1åˆ†æ”¯
 $ git branch -d feature1
 
-Ğ¡½á£º
-ºÏ²¢·ÖÖ§Ê±£¬ÓĞ³åÍ»£¬ĞŞ¸ÄÎÄ¼ş£¬ÎÄ¼şÀïÃæÓĞÌáÊ¾£¬addºó£¬×Ô¶¯ (master|MERGING)±äÎª(master)
-pull£º±¾µØ <-- Ô¶³Ì
-push£º±¾µØ --> Ô¶³Ì
-±¾ÖÊÉÏ¶¼ÊÇÍ¬²½commit
-Èç¹ûÄã±¾µØÂäºóÔ¶³Ì£¬±ØÈ»Òªpull
-Èç¹ûÄã±¾µØ³¬Ç°Ô¶³Ì£¬±ØÈ»Òªpush
-end of (½â¾ö³åÍ»)
+å°ç»“ï¼š
+åˆå¹¶åˆ†æ”¯æ—¶ï¼Œæœ‰å†²çªï¼Œä¿®æ”¹æ–‡ä»¶ï¼Œæ–‡ä»¶é‡Œé¢æœ‰æç¤ºï¼Œaddåï¼Œè‡ªåŠ¨ (master|MERGING)å˜ä¸º(master)
+pullï¼šæœ¬åœ° <-- è¿œç¨‹
+pushï¼šæœ¬åœ° --> è¿œç¨‹
+æœ¬è´¨ä¸Šéƒ½æ˜¯åŒæ­¥commit
+å¦‚æœä½ æœ¬åœ°è½åè¿œç¨‹ï¼Œå¿…ç„¶è¦pull
+å¦‚æœä½ æœ¬åœ°è¶…å‰è¿œç¨‹ï¼Œå¿…ç„¶è¦push
+end of (è§£å†³å†²çª)
 
 
-·ÖÖ§¹ÜÀí²ßÂÔ
+åˆ†æ”¯ç®¡ç†ç­–ç•¥
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013758410364457b9e3d821f4244beb0fd69c61a185ae0000
-½ûÓÃFast forwardÄ£Ê½£¬ºÏ²¢Ê±ÓĞÒ»¸öĞÂµÄcommit,´Ó·ÖÖ§ÀúÊ·ÉÏ¾Í¿ÉÒÔ¿´³öÀ´
+ç¦ç”¨Fast forwardæ¨¡å¼ï¼Œåˆå¹¶æ—¶æœ‰ä¸€ä¸ªæ–°çš„commit,ä»åˆ†æ”¯å†å²ä¸Šå°±å¯ä»¥çœ‹å‡ºæ¥
 --no-ff
 
-ÊµÑé
+å®éªŒ
 $ git checkout -b dev
-ĞŞ¸Äreadme.txt
+ä¿®æ”¹readme.txt
 $ vi readme.txt
 $ git commit -m "add merge at branch dev"
-ÇĞ»»»Ømaster£º
+åˆ‡æ¢å›masterï¼š
 $ git checkout master
-ºÏ²¢£¬ÓÃ--no-ff²ÎÊı,±í½ûÓÃFast forward
+åˆå¹¶ï¼Œç”¨--no-ffå‚æ•°,è¡¨ç¦ç”¨Fast forward
 $ git merge --no-ff -m "merge with no-ff" dev
 $ git log --pretty=oneline --graph --abbrev-commit
 
-·ÖÖ§²ßÂÔ
-masterÓ¦¸ÃÊÇ·Ç³£ÎÈ¶¨£¬·¢²¼ĞÂ°æ±¾£¬Ö»ÓÃÓÚºÏ²¢·¢²¼
-devÎª´ó¼Ò¹¤×÷
-¸öÈË£¬½¨Á¢·ÖÖ§£¬ºÏ²¢µ½dev
+åˆ†æ”¯ç­–ç•¥
+masteråº”è¯¥æ˜¯éå¸¸ç¨³å®šï¼Œå‘å¸ƒæ–°ç‰ˆæœ¬ï¼Œåªç”¨äºåˆå¹¶å‘å¸ƒ
+devä¸ºå¤§å®¶å·¥ä½œ
+ä¸ªäººï¼Œå»ºç«‹åˆ†æ”¯ï¼Œåˆå¹¶åˆ°dev
 
-end of (·ÖÖ§¹ÜÀí²ßÂÔ)
+end of (åˆ†æ”¯ç®¡ç†ç­–ç•¥)
 
-Bug·ÖÖ§
-Ä¿Ç°devÉÏ¿ª·¢¹¤×÷£¬ÁÙÊ±ĞŞ¸´Ò»¸ö´úºÅ101µÄbugµÄÈÎÎñÊ±£¬ºÜ×ÔÈ»µØ£¬ÄãÏëÔÚmaster´´½¨Ò»¸ö·ÖÖ§issue-101
+Bugåˆ†æ”¯
+ç›®å‰devä¸Šå¼€å‘å·¥ä½œï¼Œä¸´æ—¶ä¿®å¤ä¸€ä¸ªä»£å·101çš„bugçš„ä»»åŠ¡æ—¶ï¼Œå¾ˆè‡ªç„¶åœ°ï¼Œä½ æƒ³åœ¨masteråˆ›å»ºä¸€ä¸ªåˆ†æ”¯issue-101
 $ git checkout dev
 $ vi readme.txt
-ÇĞ»»µ½ÒªĞŞ¸´µÄBUG·ÖÖ§£¬À´ĞŞ¸´BUG
+åˆ‡æ¢åˆ°è¦ä¿®å¤çš„BUGåˆ†æ”¯ï¼Œæ¥ä¿®å¤BUG
 $ git checkout master
 $ git checkout -b issue-101
 $ vi readme.txt
 $ git commit -m "fix bug 101"
-¼ì²éºÏ²¢µ½masterÖ÷Ïß
+æ£€æŸ¥åˆå¹¶åˆ°masterä¸»çº¿
 $ git checkout master
 $ cat readme.txt
 $ git merge --no-ff -m "merged bug fix 101" issue-101
 $ git branch -d issue-101
-»Ö¸´µ½Ô­dev×´Ì¬
+æ¢å¤åˆ°åŸdevçŠ¶æ€
 $ git checkout dev
 $ git status
-»Ö¸´Ô­ÏÖ³¡
+æ¢å¤åŸç°åœº
 $ git stash list
 $ git stash apply
-Ò»°ãÓÃ $ git stash pop
-»ò git stash dropÀ´É¾³ı£»ÁíÒ»ÖÖ·½Ê½ÊÇÓÃgit stash pop£¬»Ö¸´µÄÍ¬Ê±°ÑstashÄÚÈİÒ²É¾ÁË
-git stash dropÀ´É¾³ı£»
-	#»Ö¸´Ö¸¶¨stash, ¿É¶à´Îstash
+ä¸€èˆ¬ç”¨ $ git stash pop
+æˆ– git stash dropæ¥åˆ é™¤ï¼›å¦ä¸€ç§æ–¹å¼æ˜¯ç”¨git stash popï¼Œæ¢å¤çš„åŒæ—¶æŠŠstashå†…å®¹ä¹Ÿåˆ äº†
+git stash dropæ¥åˆ é™¤ï¼›
+	#æ¢å¤æŒ‡å®šstash, å¯å¤šæ¬¡stash
 	$ git stash apply stash@{0}
-end of (Bug·ÖÖ§)
+end of (Bugåˆ†æ”¯)
 
 
-Feature·ÖÖ§
+Featureåˆ†æ”¯
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001376026233004c47f22a16d1f4fa289ce45f14bbc8f11000
-×¼±¸»·¾³
+å‡†å¤‡ç¯å¢ƒ
 $ git checkout -b feature-vulcan
 $ vi vulcan.py
 $ git add vulcan.py
 $ git status
 $ git commit -m "add feature vulcan"
 
-ÇĞ»Ødev,
+åˆ‡å›dev,
 $ git checkout dev
-ÓĞĞÂÄÚÈİÎÄ¼ş£¬É¾³ı²»ÁË£¬ÓÃ-D
+æœ‰æ–°å†…å®¹æ–‡ä»¶ï¼Œåˆ é™¤ä¸äº†ï¼Œç”¨-D
 $ git branch -D feature-vulcan
 
-Ğ¡½Ú
-git push origin :[ÒªÉ¾³ıµÄÔ¶³Ì·ÖÖ§Ãû×Ö]
-ÀıÈçÒªÉ¾³ı Ô¶³ÌµÄgithubÉÏµÄdev·ÖÖ§£º
+å°èŠ‚
+git push origin :[è¦åˆ é™¤çš„è¿œç¨‹åˆ†æ”¯åå­—]
+ä¾‹å¦‚è¦åˆ é™¤ è¿œç¨‹çš„githubä¸Šçš„devåˆ†æ”¯ï¼š
 git push origin :dev 
 
 
 20:36 2017/2/22
 
-end of (Feature·ÖÖ§)
-end of (·ÖÖ§¹ÜÀí)
+end of (Featureåˆ†æ”¯)
+end of (åˆ†æ”¯ç®¡ç†)
 
-Ê¹ÓÃGitHub
+ä½¿ç”¨GitHub
 20:01 2017/2/27
 git clone git@github.com:michaelliao/bootstrap.git
-pull requestÒªÖ÷Òª¸ºÔğÕâ¸öÏîÄ¿ÈË²Å¿ÉÒÔ¸üĞÂ
-ÔÚGitHubÉÏ£¬¿ÉÒÔÈÎÒâFork¿ªÔ´²Ö¿â£»
-×Ô¼ºÓµÓĞForkºóµÄ²Ö¿âµÄ¶ÁĞ´È¨ÏŞ£»
-¿ÉÒÔÍÆËÍpull request¸ø¹Ù·½²Ö¿âÀ´¹±Ï×´úÂë¡£
-end of (Ê¹ÓÃGitHub)
+pull requestè¦ä¸»è¦è´Ÿè´£è¿™ä¸ªé¡¹ç›®äººæ‰å¯ä»¥æ›´æ–°
+åœ¨GitHubä¸Šï¼Œå¯ä»¥ä»»æ„Forkå¼€æºä»“åº“ï¼›
+è‡ªå·±æ‹¥æœ‰Forkåçš„ä»“åº“çš„è¯»å†™æƒé™ï¼›
+å¯ä»¥æ¨é€pull requestç»™å®˜æ–¹ä»“åº“æ¥è´¡çŒ®ä»£ç ã€‚
+end of (ä½¿ç”¨GitHub)
 
-×Ô¶¨ÒåGit
+è‡ªå®šä¹‰Git
 20:01 2017/2/27
-ÈÃGitÏÔÊ¾ÑÕÉ«,git status²âÊÔ
+è®©Gitæ˜¾ç¤ºé¢œè‰²,git statusæµ‹è¯•
 $ git config --global color.ui true
-ºöÂÔÌØÊâÎÄ¼ş
-ÎÄ¼şÃûÎª .gitignore
-ÓĞÄ£°åhttps://github.com/github/gitignore
+å¿½ç•¥ç‰¹æ®Šæ–‡ä»¶
+æ–‡ä»¶åä¸º .gitignore
+æœ‰æ¨¡æ¿https://github.com/github/gitignore
 
 # Windows:
 Thumbs.db
@@ -1100,48 +1100,48 @@ build
 db.ini
 deploy_key_rsa
 
-ÎÄ¼ş±»ºöÂÔ£¬ÓÖÏëÌí¼Ó
-$ git add -f ÎÄ¼şÃû
-²âÊÔÒ»ÏÂ¾ßÌå.gitignoreÎÄ¼şÄÄÀï¶¨ÒåÁËignoreÔ­Ôò
-git check-ignore -v ÎÄ¼şÃû
+æ–‡ä»¶è¢«å¿½ç•¥ï¼Œåˆæƒ³æ·»åŠ 
+$ git add -f æ–‡ä»¶å
+æµ‹è¯•ä¸€ä¸‹å…·ä½“.gitignoreæ–‡ä»¶å“ªé‡Œå®šä¹‰äº†ignoreåŸåˆ™
+git check-ignore -v æ–‡ä»¶å
 
-end of (ºöÂÔÌØÊâÎÄ¼ş)
+end of (å¿½ç•¥ç‰¹æ®Šæ–‡ä»¶)
 
-ÅäÖÃ±ğÃû
+é…ç½®åˆ«å
 $ git config --global alias.st status
-½ÓÏÂÀ´¿ÉÓÃ
+æ¥ä¸‹æ¥å¯ç”¨
 $ git st
-Àı×Ó
+ä¾‹å­
 $ git config --global alias.co checkout
 $ git config --global alias.ci commit
 $ git config --global alias.br branch
 
-ÓÃ
+ç”¨
 $ git ci -m "bala bala bala.."
 
-³·ÏûÉÏÒ»´ÎĞŞ¸Ä
+æ’¤æ¶ˆä¸Šä¸€æ¬¡ä¿®æ”¹
 $ git config --global alias.unstage 'reset HEAD'
-×îºóÒ»´ÎÌá½»¼ÇÂ¼
+æœ€åä¸€æ¬¡æäº¤è®°å½•
 $ git config --global alias.last 'log -1'
 $ git last
 
-¸ñÊ½»¯Ìá½»¼ÇÂ¼
+æ ¼å¼åŒ–æäº¤è®°å½•
 $ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 $ git lg
 
-ÅäÖÃÎÄ¼ş
---system	Õû¸öµçÄÔÓò
---global	ÔÚ~/.gitconfig, µ±Ç°ÓÃ»§ËùÓĞÏîÄ¿
-Ã»ÓĞ--global	ÔÚÏîÄ¿Ä¿Â¼.git/config
+é…ç½®æ–‡ä»¶
+--system	æ•´ä¸ªç”µè„‘åŸŸ
+--global	åœ¨~/.gitconfig, å½“å‰ç”¨æˆ·æ‰€æœ‰é¡¹ç›®
+æ²¡æœ‰--global	åœ¨é¡¹ç›®ç›®å½•.git/config
 
 
 
 
-end of (ÅäÖÃ±ğÃû)
+end of (é…ç½®åˆ«å)
 
-´î½¨Git·şÎñÆ÷
+æ­å»ºGitæœåŠ¡å™¨
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137583770360579bc4b458f044ce7afed3df579123eca000
 
-end of (´î½¨Git·şÎñÆ÷)
-end of (×Ô¶¨ÒåGit)
+end of (æ­å»ºGitæœåŠ¡å™¨)
+end of (è‡ªå®šä¹‰Git)
 end of (Git)

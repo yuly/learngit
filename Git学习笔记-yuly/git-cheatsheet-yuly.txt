@@ -1,12 +1,12 @@
-ÅäÖÃ»ù±¾ĞÅÏ¢
- È«¾Ö·¶Î§
+é…ç½®åŸºæœ¬ä¿¡æ¯
+ å…¨å±€èŒƒå›´
  
  git config --global user.name "you name"
  git config --global user.email "email@example.com"
 
 
 Git status
-ºìÉ«£¬±íÎÄ¼şÃ»ÓĞaddµ½Ìá½»»º´æÇø
-ÂÌÉ«£¬ÒÑaddÁË£¬Ìá½»¾ÍÉúĞ§
+çº¢è‰²ï¼Œè¡¨æ–‡ä»¶æ²¡æœ‰addåˆ°æäº¤ç¼“å­˜åŒº
+ç»¿è‰²ï¼Œå·²addäº†ï¼Œæäº¤å°±ç”Ÿæ•ˆ
 
-git commit -a		//µÈ¼ÛÏÈgit addËùÓĞÎÄ¼ş,ÔÙÌá½»
+git commit -a		//ç­‰ä»·å…ˆgit addæ‰€æœ‰æ–‡ä»¶,å†æäº¤
